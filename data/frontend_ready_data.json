@@ -1,0 +1,110 @@
+{
+  "regulation_groups": [
+    {
+      "levelName": "【效力层级3】规范性文件",
+      "items": [
+        {
+          "sn": 1,
+          "name": "Microsoft– AI, Cloud, Productivity, Computing, Gaming & Apps",
+          "issuer": "Bing搜索补充",
+          "date": "2026-02-28",
+          "summary": "Microsoft– AI, Cloud, Productivity, Computing, Gaming & Apps",
+          "level": "其他规范性文件",
+          "link": "https://www.bing.com/ck/a?!&&p=b9551d65ef4176464e4e487d161326f77ca70c4e6ac4e7f4232f627eef69d1c9JmltdHM9MTc4MDAxMjgwMA&ptn=3&ver=2&hsh=4&fclid=0bb768a9-0a71-67e5-0a46-7fc10b066661&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cz9tc29ja2lkPTBiYjc2OGE5MGE3MTY3ZTUwYTQ2N2ZjMTBiMDY2NjYx&ntb=1",
+          "linkNote": "官方链接"
+        },
+        {
+          "sn": 2,
+          "name": "Microsoftaccount | Sign In or Create Your Account Today –Microsoft",
+          "issuer": "Bing搜索补充",
+          "date": "2026-02-28",
+          "summary": "Microsoftaccount | Sign In or Create Your Account Today –Microsoft",
+          "level": "其他规范性文件",
+          "link": "https://www.bing.com/ck/a?!&&p=d05cf46d88dd8d59184ff8a3c5f38ad8204b38fcb45419ed0ca7eee82ce4e4edJmltdHM9MTc4MDAxMjgwMA&ptn=3&ver=2&hsh=4&fclid=0bb768a9-0a71-67e5-0a46-7fc10b066661&u=a1aHR0cHM6Ly9hY2NvdW50Lm1pY3Jvc29mdC5jb20vYWNjb3VudA&ntb=1",
+          "linkNote": "官方链接"
+        },
+        {
+          "sn": 3,
+          "name": "Office 365 login",
+          "issuer": "Bing搜索补充",
+          "date": "2026-02-28",
+          "summary": "Office 365 login",
+          "level": "其他规范性文件",
+          "link": "https://www.bing.com/ck/a?!&&p=756a5d778e88d66cc83b544ed630bc48f6e008a3054c3e1cda64b25584be81bbJmltdHM9MTc4MDAxMjgwMA&ptn=3&ver=2&hsh=4&fclid=0bb768a9-0a71-67e5-0a46-7fc10b066661&u=a1aHR0cHM6Ly93d3cub2ZmaWNlLmNvbS8&ntb=1",
+          "linkNote": "官方链接"
+        },
+        {
+          "sn": 4,
+          "name": "Sign in to your account",
+          "issuer": "Bing搜索补充",
+          "date": "2026-02-28",
+          "summary": "Sign in to your account",
+          "level": "其他规范性文件",
+          "link": "https://www.bing.com/ck/a?!&&p=6c72b26fd81744863afbfbae547ea7b26813de8fb8c002f17d356a177676cf99JmltdHM9MTc4MDAxMjgwMA&ptn=3&ver=2&hsh=4&fclid=0bb768a9-0a71-67e5-0a46-7fc10b066661&u=a1aHR0cHM6Ly9teWFjY291bnQubWljcm9zb2Z0LmNvbS8&ntb=1",
+          "linkNote": "官方链接"
+        },
+        {
+          "sn": 5,
+          "name": "Sign in to your account - myaccount.microsoft.com",
+          "issuer": "Bing搜索补充",
+          "date": "2026-02-28",
+          "summary": "Sign in to your account - myaccount.microsoft.com",
+          "level": "其他规范性文件",
+          "link": "https://www.bing.com/ck/a?!&&p=a52c22ac4d39121d5e0945497673cbcc50f81ec1b528c9f065669827bf5ae498JmltdHM9MTc4MDAxMjgwMA&ptn=3&ver=2&hsh=4&fclid=0bb768a9-0a71-67e5-0a46-7fc10b066661&u=a1aHR0cHM6Ly9teWFjY291bnQubWljcm9zb2Z0LmNvbS9sb2dpbg&ntb=1",
+          "linkNote": "官方链接"
+        },
+        {
+          "sn": 6,
+          "name": "MicrosoftSupport",
+          "issuer": "Bing搜索补充",
+          "date": "2026-02-28",
+          "summary": "MicrosoftSupport",
+          "level": "其他规范性文件",
+          "link": "https://www.bing.com/ck/a?!&&p=269bfcaf9f70e253f6e1f7cf8db1f7e477b1cbd9bd1e545dea79525270c52f50JmltdHM9MTc4MDAxMjgwMA&ptn=3&ver=2&hsh=4&fclid=0bb768a9-0a71-67e5-0a46-7fc10b066661&u=a1aHR0cHM6Ly9zdXBwb3J0Lm1pY3Jvc29mdC5jb20vZW4tdXM&ntb=1",
+          "linkNote": "官方链接"
+        },
+        {
+          "sn": 7,
+          "name": "MicrosoftStore - Deals on Laptops, Windows Computers & Other Sales",
+          "issuer": "Bing搜索补充",
+          "date": "2026-02-28",
+          "summary": "MicrosoftStore - Deals on Laptops, Windows Computers & Other Sales",
+          "level": "其他规范性文件",
+          "link": "https://www.bing.com/ck/a?!&&p=95fd947146cfd20489f62c7eb306111185a3ee760334e9070baf51dae8f53db5JmltdHM9MTc4MDAxMjgwMA&ptn=3&ver=2&hsh=4&fclid=0bb768a9-0a71-67e5-0a46-7fc10b066661&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9zdG9yZS9iL3NhbGU_bXNvY2tpZD0wYmI3NjhhOTBhNzE2N2U1MGE0NjdmYzEwYjA2NjY2MQ&ntb=1",
+          "linkNote": "官方链接"
+        },
+        {
+          "sn": 8,
+          "name": "Microsoftproducts, apps, and devices built to support you",
+          "issuer": "Bing搜索补充",
+          "date": "2026-02-28",
+          "summary": "Microsoftproducts, apps, and devices built to support you",
+          "level": "其他规范性文件",
+          "link": "https://www.bing.com/ck/a?!&&p=30df96822dd6e4f01d3627a4d1eb825039b6bb5b705ce5220f5a26db6af796adJmltdHM9MTc4MDAxMjgwMA&ptn=3&ver=2&hsh=4&fclid=0bb768a9-0a71-67e5-0a46-7fc10b066661&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9taWNyb3NvZnQtcHJvZHVjdHMtYW5kLWFwcHM_bXNvY2tpZD0wYmI3NjhhOTBhNzE2N2U1MGE0NjdmYzEwYjA2NjY2MQ&ntb=1",
+          "linkNote": "官方链接"
+        },
+        {
+          "sn": 9,
+          "name": "Download Drivers & Updates forMicrosoft, Windows and more -Microsoft…",
+          "issuer": "Bing搜索补充",
+          "date": "2026-02-28",
+          "summary": "Download Drivers & Updates forMicrosoft, Windows and more -Microsoft…",
+          "level": "其他规范性文件",
+          "link": "https://www.bing.com/ck/a?!&&p=cf28b22a5887c1663015871e803f8b9c61a2478ed3b9469a7a7bfd1acd7ad10bJmltdHM9MTc4MDAxMjgwMA&ptn=3&ver=2&hsh=4&fclid=0bb768a9-0a71-67e5-0a46-7fc10b066661&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy9kb3dubG9hZD9tc29ja2lkPTBiYjc2OGE5MGE3MTY3ZTUwYTQ2N2ZjMTBiMDY2NjYx&ntb=1",
+          "linkNote": "官方链接"
+        },
+        {
+          "sn": 10,
+          "name": "Microsoft- Wikipedia",
+          "issuer": "Bing搜索补充",
+          "date": "2026-02-28",
+          "summary": "Microsoft- Wikipedia",
+          "level": "其他规范性文件",
+          "link": "https://www.bing.com/ck/a?!&&p=be1e5fa98ba9a9d33db580e763e528b7044e3ca50dfdd3cb6ec2ab1b5328d766JmltdHM9MTc4MDAxMjgwMA&ptn=3&ver=2&hsh=4&fclid=0bb768a9-0a71-67e5-0a46-7fc10b066661&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWljcm9zb2Z0&ntb=1",
+          "linkNote": "官方链接"
+        }
+      ]
+    }
+  ],
+  "penalties": []
+}
