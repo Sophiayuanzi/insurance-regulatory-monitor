@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>保险监管动态 | 实时抓取展示</title>
+    <style>
+        /* 这里放您之前的样式，为节省篇幅省略，您可以原样复制之前的CSS */
+        body { font-family: system-ui; background: #F4F7FC; margin: 0; padding: 20px; }
+        .container { max-width: 1400px; margin: auto; }
+        .card { background: white; border-radius: 24px; padding: 20px; margin-bottom: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { text-align: left; padding: 12px; border-bottom: 1px solid #eee; }
+        .btn-refresh { background: #00C48C; border: none; padding: 8px 24px; border-radius: 40px; color: white; cursor: pointer; margin-bottom: 20px; }
+        .status { margin-left: 20px; font-size: 14px; color: gray; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>📋 保险监管动态监测 <span style="font-size: 14px;">数据源：近三个月自动抓取</span></h1>
+    <button class="btn-refresh" id="refreshBtn">🔄 刷新数据（从服务器拉取最新）</button>
+    <span class="status" id="statusMsg"></span>
+
+    <div class="card">
+        <h2>📌 监管新规 & 法规修订动态（按效力层级）</h2>
+        <div id="regulationContainer">加载中...</div>
+    </div>
+
+    <div class="card">
+        <h2>⚖️ 总局机关行政处罚公告</h2>
+        <div id="penaltyContainer">加载中...</div>
+    </div>
+</div>
+
+<script>
+    // 数据文件地址（注意：最后部署后是 /data/frontend_ready_data.json）
+    const DATA_URL = './data/frontend_ready_data.json';
+
+    async function loadData() {
+        const statusSpan = document.getElementById('statusMsg');
+        statusSpan.innerText = '加载中...';
+        try {
+            const response = await fetch(DATA_URL + '?t=' + Date.now()); // 加时间戳避免缓存
+            if (!response.ok) throw new Error('数据文件不存在，请等待首次自动抓取完成');
+            const data = await response.json();
+            renderRegulations(data.regulation_groups);
+            renderPenalties(data.penalties);
+            statusSpan.innerText = `最后更新: ${new Date().toLocaleString()}`;
+        } catch (err) {
+            console.error(err);
+            statusSpan.innerText = '⚠️ 数据尚未生成，请等待 GitHub Actions 首次运行（约1-2分钟）或手动触发工作流';
+            document.getElementById('regulationContainer').innerHTML = '<p style="color:red;">暂无数据，请稍后刷新页面。</p>';
+        }
+    }
+
+    function renderRegulations(groups) {
+        const container = document.getElementById('regulationContainer');
+        if (!groups || groups.length === 0) {
+            container.innerHTML = '<p>暂无监管新规数据</p>';
+            return;
+        }
+        let html = '';
+        for (let group of groups) {
+            html += `<h3 style="margin-top:24px;">${group.levelName}</h3>`;
+            html += `<table><thead><tr><th>序号</th><th>文件名称</th><th>发布机构</th><th>日期</th><th>核心要点</th><th>来源</th></tr></thead><tbody>`;
+            for (let item of group.items) {
+                html += `<tr>
+                            <td>${item.sn}</td>
+                            <td><strong>${item.name}</strong></td>
+                            <td>${item.issuer}</td>
+                            <td>${item.date}</td>
+                            <td>${item.summary}</td>
+                            <td><a href="${item.link}" target="_blank">链接</a></td>
+                         </tr>`;
+            }
+            html += `</tbody></table>`;
+        }
+        container.innerHTML = html;
+    }
+
+    function renderPenalties(penalties) {
+        const container = document.getElementById('penaltyContainer');
+        if (!penalties || penalties.length === 0) {
+            container.innerHTML = '<p>暂无行政处罚数据</p>';
+            return;
+        }
+        let html = `<table><thead><tr><th>序号</th><th>处罚文号</th><th>被处罚当事人</th><th>违法违规事实</th><th>处罚决定</th><th>日期</th><th>来源</th></tr></thead><tbody>`;
+        for (let p of penalties) {
+            html += `<tr>
+                        <td>${p.sn}</td>
+                        <td>${p.docNum}</td>
+                        <td>${p.party}</td>
+                        <td>${p.violation}</td>
+                        <td>${p.decision}</td>
+                        <td>${p.date}</td>
+                        <td><a href="${p.link}" target="_blank">原文</a></td>
+                     </tr>`;
+        }
+        html += `</tbody></table>`;
+        container.innerHTML = html;
+    }
+
+    document.getElementById('refreshBtn').addEventListener('click', () => {
+        loadData();
+    });
+
+    loadData();
+</script>
+</body>
+</html>
