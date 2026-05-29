@@ -1,0 +1,35 @@
+name: Daily Crawl Insurance Regulatory Data
+
+on:
+  schedule:
+    - cron: '0 2,14 * * *'   # 每天 UTC 时间 2:00 和 14:00 运行（北京时间 10:00 和 22:00）
+  workflow_dispatch:         # 允许手动触发（在 GitHub 网页上点按钮运行）
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 安装依赖
+        run: |
+          pip install requests beautifulsoup4 lxml playwright
+          playwright install chromium
+
+      - name: 运行爬虫脚本
+        run: python insurance_regulatory_crawler.py
+
+      - name: 部署到 gh-pages 分支
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: gh-pages
+          keep_files: false
+          destination_dir: data
