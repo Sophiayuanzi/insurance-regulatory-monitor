@@ -2,8 +2,12 @@ name: Daily Crawl Insurance Regulatory Data
 
 on:
   schedule:
-    - cron: '0 2,14 * * *'   # 每天 UTC 时间 2:00 和 14:00 运行（北京时间 10:00 和 22:00）
-  workflow_dispatch:         # 允许手动触发（在 GitHub 网页上点按钮运行）
+    - cron: '0 2,14 * * *'
+  workflow_dispatch:
+
+# 重要：赋予写入权限，以便推送到 gh-pages 分支
+permissions:
+  contents: write
 
 jobs:
   crawl:
