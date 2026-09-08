@@ -1,187 +1,169 @@
 {
-  "last_updated": "2026-09-08T07:00:29.101037",
+  "last_updated": "2026-09-08T17:48:15.639909",
   "date_range": {
     "start": "2026-06-10",
     "end": "2026-09-08"
   },
   "regulations": [
     {
-      "title": "保險 - 维基百科，自由的百科全书",
-      "link": "https://www.bing.com/ck/a?!&&p=fe6f247fb484057db3c697be20b1d962daa1c29f55dbacd3e73a4088582212efJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e33bfd4-0a42-6085-2f7c-a81a0beb61a0&u=a1aHR0cHM6Ly96aC5tLndpa2lwZWRpYS5vcmcvd2lraS_kv53pmqo&ntb=1",
-      "date": "2026-06-10",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "保险（契约经济关系）_百度百科",
-      "link": "https://www.bing.com/ck/a?!&&p=277dedeb7f7f43787c8ce4bdd146d759ea72c0296f59735c70dd52894cb8a05cJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e33bfd4-0a42-6085-2f7c-a81a0beb61a0&u=a1aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTQlQkYlOUQlRTklOTklQTkvMjYy&ntb=1",
-      "date": "2026-06-10",
-      "source": "Bing搜索补充"
-    },
-    {
       "title": "中国太平洋保险官网可购买车险、人寿保险、养老保险、意外险、重疾险、理财保险等",
-      "link": "https://www.bing.com/ck/a?!&&p=3ae2a526a152c1e1096a2ef09c1a2f521acfb97bb3521d2e6d50d153bd230fb7JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e33bfd4-0a42-6085-2f7c-a81a0beb61a0&u=a1aHR0cHM6Ly93d3cuY3BpYy5jb20uY24v&ntb=1",
-      "date": "2026-06-10",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "平安集团官网_保险·车险·健康险·信用卡·投资理财一站式服务",
-      "link": "https://www.bing.com/ck/a?!&&p=5beac50f43b175253febbc942dfa31b81bdfd79b842a1e63a47ef12d4f740dbaJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e33bfd4-0a42-6085-2f7c-a81a0beb61a0&u=a1aHR0cHM6Ly93d3cucGluZ2FuLmNvbS8&ntb=1",
-      "date": "2026-06-10",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "慧择保险网｜互联网保险经纪与一站式保险服务",
-      "link": "https://www.bing.com/ck/a?!&&p=9ab5ae0a5e6e98479b678c4edb1e8025d5f68ce3ae33bfae49c690bcd1a8172eJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e33bfd4-0a42-6085-2f7c-a81a0beb61a0&u=a1aHR0cHM6Ly93d3cuaHVpemUuY29tLw&ntb=1",
-      "date": "2026-06-10",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "中民——优选好保险",
-      "link": "https://www.bing.com/ck/a?!&&p=d50e27028caf2546fc745969d8583ec7a31fc3c7d8619246f6b000e6efd9868aJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e33bfd4-0a42-6085-2f7c-a81a0beb61a0&u=a1aHR0cHM6Ly93d3cuemhvbmdtaW4uY24v&ntb=1",
-      "date": "2026-06-10",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "开心保保险网-好保险,聪明选.网上买保险推荐平台!",
-      "link": "https://www.bing.com/ck/a?!&&p=e2c2b8e13a93b9759d1e3143a48d1343b3fac8188d02bdbda0877aabde835404JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e33bfd4-0a42-6085-2f7c-a81a0beb61a0&u=a1aHR0cHM6Ly93YXAua2FpeGluYmFvLmNvbS8&ntb=1",
-      "date": "2026-06-10",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "深蓝保官网-专业保险测评机构_为您寻找高性价比的保险产品",
-      "link": "https://www.bing.com/ck/a?!&&p=70557306d0e8d3eea1622b4b5770fa0bdc259607459724eeb3711adbf25c6bcfJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e33bfd4-0a42-6085-2f7c-a81a0beb61a0&u=a1aHR0cHM6Ly9tLnNoZW5sYW5iYW8uY29tLw&ntb=1",
+      "link": "https://www.bing.com/ck/a?!&&p=34ca7ec2c53ab42b61c430e6c6f816089327a2e150dcad9a997b4ad3df067290JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2908e421-eec0-6c0b-1652-f3efef506d60&u=a1aHR0cHM6Ly93d3cuY3BpYy5jb20uY24v&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
       "title": "PICC中国人民保险集团官网-车险-财产保险-意外险-健康保险-旅游险",
-      "link": "https://www.bing.com/ck/a?!&&p=159180135260e425e95e597e3f22ba32d0ec04f11397e7f0adafae72a62e7c27JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e33bfd4-0a42-6085-2f7c-a81a0beb61a0&u=a1aHR0cHM6Ly9lLnBpY2MuY29tLmNuLw&ntb=1",
+      "link": "https://www.bing.com/ck/a?!&&p=af44c91ee44517c2b4cbe8bd3016658a413cd9b795b8973b956a2b3cf2238ebfJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2908e421-eec0-6c0b-1652-f3efef506d60&u=a1aHR0cHM6Ly9lLnBpY2MuY29tLmNuLw&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "中国人寿官网-保险·投资·银行-中国人寿",
-      "link": "https://www.bing.com/ck/a?!&&p=9b0fa5aee957b24b59f18581d7d7774f56d3d928d0ccf555b3b100553952a14eJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e33bfd4-0a42-6085-2f7c-a81a0beb61a0&u=a1aHR0cHM6Ly93d3cuY2hpbmFsaWZlLmNvbS5jbi8&ntb=1",
+      "title": "保險 - 维基百科，自由的百科全书",
+      "link": "https://www.bing.com/ck/a?!&&p=041f2f3169915586b9814e0473b3ef717834afa5ec31d65c48bfd0bd2c59fd06JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2908e421-eec0-6c0b-1652-f3efef506d60&u=a1aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3dpa2kvJUU0JUJGJTlEJUU5JTlBJUFB&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Tuberculosis- Wikipedia",
-      "link": "https://www.bing.com/ck/a?!&&p=4d27c3ed318883eda1117b6f39b2c74ff9daee6f1b703322f43d084a0dcf6ba8JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e36c9e5-ad27-6263-1470-de2bac6e6338&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvVHViZXJjdWxvc2lz&ntb=1",
+      "title": "慧择保险网｜互联网保险经纪与一站式保险服务",
+      "link": "https://www.bing.com/ck/a?!&&p=98f155653a015273dcaa979e2870b0e076fd5772d1a40400df434123eb8eb2bcJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2908e421-eec0-6c0b-1652-f3efef506d60&u=a1aHR0cHM6Ly93d3cuaHVpemUuY29tLw&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Tuberculosis-Symptoms& causes - Mayo Clinic",
-      "link": "https://www.bing.com/ck/a?!&&p=91bb266dae04427c35a20146b21739fa8552a7851ecd5256912e5484283e8247JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e36c9e5-ad27-6263-1470-de2bac6e6338&u=a1aHR0cHM6Ly93d3cubWF5b2NsaW5pYy5vcmcvZGlzZWFzZXMtY29uZGl0aW9ucy90dWJlcmN1bG9zaXMvc3ltcHRvbXMtY2F1c2VzL3N5Yy0yMDM1MTI1MA&ntb=1",
+      "title": "保险（契约经济关系）_百度百科",
+      "link": "https://www.bing.com/ck/a?!&&p=b4d3b11cb6969bd3687ccdf18625ab093b5fd7e337dea9cc1067385b58ef7859JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2908e421-eec0-6c0b-1652-f3efef506d60&u=a1aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTQlQkYlOUQlRTklOTklQTkvMjYy&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Tuberculosis(TB): Causes, Symptoms, Treatment & Prevention",
-      "link": "https://www.bing.com/ck/a?!&&p=0473b8cf5151158cba78e2a39a3517dd13b2c4ce1398287d902b11bde9653b63JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e36c9e5-ad27-6263-1470-de2bac6e6338&u=a1aHR0cHM6Ly9teS5jbGV2ZWxhbmRjbGluaWMub3JnL2hlYWx0aC9kaXNlYXNlcy8xMTMwMS10dWJlcmN1bG9zaXM&ntb=1",
+      "title": "平安集团官网_保险·车险·健康险·信用卡·投资理财一站式服务",
+      "link": "https://www.bing.com/ck/a?!&&p=9ee9bbeb0906f2c67cbf0c14877510f1a5dd68e550feb3b1c5a57c675c1547ebJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2908e421-eec0-6c0b-1652-f3efef506d60&u=a1aHR0cHM6Ly93d3cucGluZ2FuLmNvbS8&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Tuberculosis- World Health Organization (WHO)",
-      "link": "https://www.bing.com/ck/a?!&&p=decf591d445f6058bd2c3d415c54e3c297e9ffb81900532e6cda809040762fb2JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e36c9e5-ad27-6263-1470-de2bac6e6338&u=a1aHR0cHM6Ly93d3cud2hvLmludC9uZXdzLXJvb20vZmFjdC1zaGVldHMvZGV0YWlsL3R1YmVyY3Vsb3Npcw&ntb=1",
+      "title": "保险- 知乎",
+      "link": "https://www.bing.com/ck/a?!&&p=6e0688bb68c54d92ba1edcacbe8035cab1fb311111d41592bd10a80124bfb37dJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2908e421-eec0-6c0b-1652-f3efef506d60&u=a1aHR0cHM6Ly93d3cuemhpaHUuY29tL3RvcGljLzE5NTYyMDQ1L2hvdA&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Tuberculosis(TB) |Tuberculosis(TB) | CDC",
-      "link": "https://www.bing.com/ck/a?!&&p=2d69430d7d1898a6bb0f898ec296edde9d5f2a31768416c24b2c928c7a3958f3JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e36c9e5-ad27-6263-1470-de2bac6e6338&u=a1aHR0cHM6Ly93d3cuY2RjLmdvdi90Yi9pbmRleC5odG1s&ntb=1",
+      "title": "中国平安保险与你相伴一生 - 中国平安官网",
+      "link": "https://www.bing.com/ck/a?!&&p=5bbf2781846e6a70d28b31e10e2523b327f5922bc94321ef5b77baf2ee9e17e2JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2908e421-eec0-6c0b-1652-f3efef506d60&u=a1aHR0cHM6Ly93d3cucGluZ2FuLmNvbS9vZmZpY2lhbC9pbnN1cmFuY2UtYT9jaGFubmVsX2lkPTE&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "AboutTuberculosis|Tuberculosis(TB) | CDC",
-      "link": "https://www.bing.com/ck/a?!&&p=371a286da93cf107033d6c21f8e4c2e44607afad58cf8719a925096c357f1b92JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e36c9e5-ad27-6263-1470-de2bac6e6338&u=a1aHR0cHM6Ly93d3cuY2RjLmdvdi90Yi9hYm91dC9pbmRleC5odG1s&ntb=1",
+      "title": "保险频道-最专业的保险门户网站_新浪财经_新浪网",
+      "link": "https://www.bing.com/ck/a?!&&p=5af85b2ad284eea485aea63ba3581014ed3e839b67e7797960b7fb8346f59bb9JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2908e421-eec0-6c0b-1652-f3efef506d60&u=a1aHR0cHM6Ly9maW5hbmNlLnNpbmEuY29tLmNuL21vbmV5L2luc3VyYW5jZS8&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Tuberculosis: MedlinePlus en español",
-      "link": "https://www.bing.com/ck/a?!&&p=005dc42ed386b62773e1e0f33df3380f464430b5ffb7ba70b3acbe3a1e47b53bJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e36c9e5-ad27-6263-1470-de2bac6e6338&u=a1aHR0cHM6Ly9tZWRsaW5lcGx1cy5nb3Yvc3BhbmlzaC90dWJlcmN1bG9zaXMuaHRtbA&ntb=1",
+      "title": "PICC - 中国人民保险集团股份有限公司",
+      "link": "https://www.bing.com/ck/a?!&&p=34d9e6bd6965e69eefdf8575164cc600a566ceee0091f0fafb94aed16260ddeaJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2908e421-eec0-6c0b-1652-f3efef506d60&u=a1aHR0cHM6Ly93d3cucGljYy5jb20uY24v&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Tuberculosis (TB) - NHS",
-      "link": "https://www.bing.com/ck/a?!&&p=aa3f7ec5f674b9ba8b5486d72dd210ad64da2f441bea026f64e266636396959dJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e36c9e5-ad27-6263-1470-de2bac6e6338&u=a1aHR0cHM6Ly93d3cubmhzLnVrL2NvbmRpdGlvbnMvdHViZXJjdWxvc2lzLXRiLw&ntb=1",
+      "title": "CPT 82306& ICD-10CodesforVitamin DDeficiency: 2026 Guide",
+      "link": "https://www.bing.com/ck/a?!&&p=8f2f462623c3abb3dc1e4a83f204d2ee7b296a59cab12477c22072be65d44e52JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2eb1e5c7-b4fa-6820-1240-f209b5d069df&u=a1aHR0cHM6Ly9jbXMxNTAwY2xhaW1iaWxsaW5nLmNvbS9jcHQtY29kZS04MjMwNi04MjY1Mi12aXRhbWluLWQtaHlkcm94eQ&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Tuberculosis- World Health Organization (WHO)",
-      "link": "https://www.bing.com/ck/a?!&&p=d5f873999edf8f8f51003ba80267309ac24c1c7f5ea5e897c292c58aa7927b20JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e36c9e5-ad27-6263-1470-de2bac6e6338&u=a1aHR0cHM6Ly93d3cud2hvLmludC9oZWFsdGgtdG9waWNzL3R1YmVyY3Vsb3Npcw&ntb=1",
+      "title": "Vitamin D;25 hydroxy-Quest Diagnostics",
+      "link": "https://www.bing.com/ck/a?!&&p=7be640650af7acb9b9fd9d59e0ea8c73325f5bb790b06b4b28c5433c38777dffJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2eb1e5c7-b4fa-6820-1240-f209b5d069df&u=a1aHR0cHM6Ly93d3cucXVlc3RkaWFnbm9zdGljcy5jb20vY29udGVudC9kYW0vY29ycG9yYXRlL3Jlc3RyaWN0ZWQvZG9jdW1lbnRzL21sY3AvbWxjcC9qbi1mc2NvL2puLWZjc28tbWxjcC1sMzM3NzEtdml0YW1pbl9kXzI1X2h5ZHJveHkvSk4tRkNTTy0tLU1MQ1AtLS1MMzM3NzEtLS1WaXRhbWluLUQtMjUtaHlkcm94eS5wZGY&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Tuberculosis(TB): Basics You Should Know - WebMD",
-      "link": "https://www.bing.com/ck/a?!&&p=9dc031f2250581cb530b29da290917a42d58099187b4da2a055cfc8676873500JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=3e36c9e5-ad27-6263-1470-de2bac6e6338&u=a1aHR0cHM6Ly93d3cud2VibWQuY29tL2x1bmcvdW5kZXJzdGFuZGluZy10dWJlcmN1bG9zaXMtYmFzaWNz&ntb=1",
+      "title": "CPT code 82306:Vitamin D 25-hydroxy, coverage, fee schedule",
+      "link": "https://www.bing.com/ck/a?!&&p=05d719a159454ac0cb6940d3ff8ccaf2246722c2e266f445eb6347110b410053JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2eb1e5c7-b4fa-6820-1240-f209b5d069df&u=a1aHR0cHM6Ly9wYWJhdS5jb20vcHJvY2VkdXJlLWNvZGVzL2NwdC1jb2RlLTgyMzA2Lw&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Iniciar sesión en Gmail - Ordenador - Ayuda de Gmail",
-      "link": "https://www.bing.com/ck/a?!&&p=e78972eeed297ef95107dcb6bb6d95e9c0a38eccb0076c22eb736b74b0e28fc4JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=0351777c-0565-65ad-3428-60b2047864da&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vbWFpbC9hbnN3ZXIvODQ5ND9obD1lcyZjbz1HRU5JRS5QbGF0Zm9ybSUzRERlc2t0b3A&ntb=1",
+      "title": "Article - Billing and Coding:Vitamin D;25 hydroxy, includes fraction ...",
+      "link": "https://www.bing.com/ck/a?!&&p=4642cebcbd82ebb8d3017b3ffecb5533940f3dd07962ad7178d14c494f3e4eb2JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2eb1e5c7-b4fa-6820-1240-f209b5d069df&u=a1aHR0cHM6Ly93d3cuY21zLmdvdi9tZWRpY2FyZS1jb3ZlcmFnZS1kYXRhYmFzZS92aWV3L2FydGljbGUuYXNweD9hcnRpY2xlSWQ9NTY4NDEmTENESWQ9MzM3NzEmRG9jSUQ9TDMzNzcx&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Fazer login no Gmail - Computador - Ajuda do Gmail",
-      "link": "https://www.bing.com/ck/a?!&&p=c266416995907d0357fdac1ff866e00fcc5d979f5ddd4704172575c1cc9482bcJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=0351777c-0565-65ad-3428-60b2047864da&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vbWFpbC9hbnN3ZXIvODQ5ND9obD1wdC1CUiZjbz1HRU5JRS5QbGF0Zm9ybSUzRERlc2t0b3A&ntb=1",
+      "title": "CPT 82306:Vitamin D,25-Hydroxy— Billing & Denial Guide",
+      "link": "https://www.bing.com/ck/a?!&&p=375a304e1da7543873a3fb608356dc4993e447c25ce509166ea67e1eb321509fJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2eb1e5c7-b4fa-6820-1240-f209b5d069df&u=a1aHR0cHM6Ly9jeWxpbnguY29tL2NwdC1jb2Rlcy84MjMwNi8&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Criar uma Conta do Google para o Gmail - Ajuda do Gmail",
-      "link": "https://www.bing.com/ck/a?!&&p=6258ed6666fe15157779d34c3250bea6bd4b0917b876dd6b2a48cec42623da94JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=0351777c-0565-65ad-3428-60b2047864da&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vbWFpbC9hbnN3ZXIvNTYyNTY_aGw9cHQtQlI&ntb=1",
+      "title": "Vitamin D;25 hydroxy(L36692) - pdllabs.com",
+      "link": "https://www.bing.com/ck/a?!&&p=15171ad3f43d494c28118457c4eccf17eb35fef6bd2e3a356b31ff1f777de92aJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2eb1e5c7-b4fa-6820-1240-f209b5d069df&u=a1aHR0cHM6Ly93d3cucGRsbGFicy5jb20vYXBwL2ZpbGVzL3B1YmxpYy9mNTYzMTI0ZS0wYzE5LTQ0ZDctYmY5Yi00ZDRlNjVkYzRmYWYvTWVkaWNhcmUlMjBMQ0QlMjBDTVMlMjBQb2xpY3klMjBmb3IlMjBWaXRhbWluJTIwRDslMjAyNSUyMGh5ZHJveHklMjBTZXB0JTIwMTIlMjAyMDI1LnBkZg&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Inicie sessão no Gmail - Computador - Gmail Ajuda",
-      "link": "https://www.bing.com/ck/a?!&&p=ae0c03ee2d12e580bd77b37952d43209b4511f772e022d4a1376ad372358b72cJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=0351777c-0565-65ad-3428-60b2047864da&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vbWFpbC9hbnN3ZXIvODQ5ND9obD1wdCZjbz1HRU5JRS5QbGF0Zm9ybSUzRERlc2t0b3A&ntb=1",
+      "title": "82306-Vitamin D;25 hydroxy, includes fr… |CPT CodeGuide",
+      "link": "https://www.bing.com/ck/a?!&&p=c2ff529cac229a3438c628b93abbe6be8f63693b6a4c27fc718cff41d9ae1d79JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2eb1e5c7-b4fa-6820-1240-f209b5d069df&u=a1aHR0cHM6Ly9vcmJkb2MuY29tL3Jlc291cmNlcy9jcHQvODIzMDYv&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Crie uma Conta Google para o Gmail - Gmail Ajuda",
-      "link": "https://www.bing.com/ck/a?!&&p=3e9843a0d0895cf8eb6c4d22a2104e3aa3b744b5d8deef1b7bae628ab8642ceaJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=0351777c-0565-65ad-3428-60b2047864da&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vbWFpbC9hbnN3ZXIvNTYyNTY_aGw9cHQ&ntb=1",
+      "title": "Presentation -Quest Diagnostics",
+      "link": "https://www.bing.com/ck/a?!&&p=93bc22b0a02d2112edeabfc3ef1f2371def1a780f1784ba5f9dc87b035e78a06JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2eb1e5c7-b4fa-6820-1240-f209b5d069df&u=a1aHR0cHM6Ly93d3cucXVlc3RkaWFnbm9zdGljcy5jb20vY29udGVudC9kYW0vY29ycG9yYXRlL3Jlc3RyaWN0ZWQvZG9jdW1lbnRzL21sY3AvbWxjcC9qbC1ub3ZpdGFzL2psX25vdml0YXMtbWxjcC1sMzQ5MTQtdml0YW1pbl9kXzI1L0pMLU5vdml0YXMtLS1NTENQLS0tTDM0OTE0LS0tVml0YW1pbi1ELTI1LnBkZg&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Sign in to Gmail - Computer - Gmail Help - Google Help",
-      "link": "https://www.bing.com/ck/a?!&&p=c8171dfbbbd5af0eafcc486a9546ee2d8f54229ebf85b2273055327302f44940JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=0351777c-0565-65ad-3428-60b2047864da&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vbWFpbC9hbnN3ZXIvODQ5ND9obD1lbiZjbz1HRU5JRS5QbGF0Zm9ybSUzRERlc2t0b3A&ntb=1",
+      "title": "What IsCPT Code 82306for aVitamin DTest? - Biology Insights",
+      "link": "https://www.bing.com/ck/a?!&&p=4e848e557f85250b70638f3b7a818dce4f979baf72c33dcfa0ca5ccb532af286JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2eb1e5c7-b4fa-6820-1240-f209b5d069df&u=a1aHR0cHM6Ly9iaW9sb2d5aW5zaWdodHMuY29tL3doYXQtaXMtY3B0LWNvZGUtODIzMDYtZm9yLWEtdml0YW1pbi1kLXRlc3Qv&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Ajuda do Gmail",
-      "link": "https://www.bing.com/ck/a?!&&p=a6c11ef1de50d5805728e56beb58927bb01b3a3323f50813736ee771d9c14b0dJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=0351777c-0565-65ad-3428-60b2047864da&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vbWFpbC8_aGw9cHQtQlI&ntb=1",
+      "title": "CPT 82306:Vitamin DLevel (25-Hydroxy) Cost (2026 Medicare Rate …",
+      "link": "https://www.bing.com/ck/a?!&&p=bf65984a350d2103c4930d6be79ee2e2f541f20467308345316334f960fae4e1JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2eb1e5c7-b4fa-6820-1240-f209b5d069df&u=a1aHR0cHM6Ly93d3cuY2FyZXJvdXRlLmFpL2Nvc3RzL2NwdC84MjMwNg&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Procurar uma conta já existente - Ajuda da Conta do Google",
-      "link": "https://www.bing.com/ck/a?!&&p=268d15a14f6256af248ed0609082ac5f96bc612692ef0d5ef34fa92d977d25f7JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=0351777c-0565-65ad-3428-60b2047864da&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vYWNjb3VudHMvYW5zd2VyLzQwNTYwP2hsPXB0LUJS&ntb=1",
+      "title": "CrimsonSteve's more mobs -Minecraft Mods- CurseForge",
+      "link": "https://www.bing.com/ck/a?!&&p=66a7e9f9a2312277ab6d1e26986970915d3a4ac043e1e4aef6498019eb3a2fd8JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2655759d-8e3c-604d-1f21-62538fe7613e&u=a1aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvY3JpbXNvbnN0ZXZlcy1tb3JlLW1vYnM&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Mudar ou redefinir senha - Computador - Ajuda do Gmail",
-      "link": "https://www.bing.com/ck/a?!&&p=d2cdf39829a5ba5e09cf2093b3e5dff3657119a5486358107dfc8eb0c6fbc018JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=0351777c-0565-65ad-3428-60b2047864da&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vbWFpbC9hbnN3ZXIvNDEwNzg_aGw9cHQtQlImY289R0VOSUUuUGxhdGZvcm0lM0REZXNrdG9w&ntb=1",
+      "title": "Crimson-Minecraft Mod- Modrinth",
+      "link": "https://www.bing.com/ck/a?!&&p=d3d36aeef9c8f2acb6016f2c610ce17c98c4f896954cce1b2be43e6164d379fcJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2655759d-8e3c-604d-1f21-62538fe7613e&u=a1aHR0cHM6Ly9tb2RyaW50aC5jb20vbW9kL2NyaW1zb25tb2Q&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Pesquisar no Gmail - Computador - Ajuda do Gmail",
-      "link": "https://www.bing.com/ck/a?!&&p=fc0130bbeb6545e8ec54c3e413e2f6a4a2d738eb3a88aba2ebf64a943e31323eJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=0351777c-0565-65ad-3428-60b2047864da&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vbWFpbC9hbnN3ZXIvNjU5Mz9obD1wdC1iciZjbz1HRU5JRS5QbGF0Zm9ybSUzRERlc2t0b3A&ntb=1",
+      "title": "CrimsonCurse: Infection -Minecraft Mods- CurseForge",
+      "link": "https://www.bing.com/ck/a?!&&p=6d552f05735935fcfc6b9ce6f29a93d33cd6d0a29caa7297625651dbe1ec2921JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2655759d-8e3c-604d-1f21-62538fe7613e&u=a1aHR0cHM6Ly93d3cuY3Vyc2Vmb3JnZS5jb20vbWluZWNyYWZ0L21jLW1vZHMvY3JpbXNvbi1jdXJzZS1pbmZlY3Rpb24&ntb=1",
+      "date": "2026-06-10",
+      "source": "Bing搜索补充"
+    },
+    {
+      "title": "10 BestMinecraft NPC Modsby Community Downloads",
+      "link": "https://www.bing.com/ck/a?!&&p=3b8ec4910f5f23a3aba85eb5d8007c85e02fdf3a90dc2f5fbf66823c57b9ceeaJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2655759d-8e3c-604d-1f21-62538fe7613e&u=a1aHR0cHM6Ly9ibG9nLmN1cnNlZm9yZ2UuY29tL2Jlc3QtbWluZWNyYWZ0LW5wYy1tb2RzLw&ntb=1",
+      "date": "2026-06-10",
+      "source": "Bing搜索补充"
+    },
+    {
+      "title": "Crimson-Minecraft Mod- Modpack Index",
+      "link": "https://www.bing.com/ck/a?!&&p=4161b0b60b5ff7ac8a099deab65f6352f14074f05e783366b8929a415e48a3c4JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2655759d-8e3c-604d-1f21-62538fe7613e&u=a1aHR0cHM6Ly93d3cubW9kcGFja2luZGV4LmNvbS9tb2QvMTQ4NjcxL2NyaW1zb24&ntb=1",
+      "date": "2026-06-10",
+      "source": "Bing搜索补充"
+    },
+    {
+      "title": "18 BestNPC ModsForMinecraft- MyOtakuWorld",
+      "link": "https://www.bing.com/ck/a?!&&p=eb942dd40c1e451b9ad33e04858b5ef14b4ae75429ca759c52ab0e5361598fcbJmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2655759d-8e3c-604d-1f21-62538fe7613e&u=a1aHR0cHM6Ly9teW90YWt1d29ybGQuY29tL21pbmVjcmFmdC9taW5lY3JhZnQtbnBjLW1vZHM&ntb=1",
+      "date": "2026-06-10",
+      "source": "Bing搜索补充"
+    },
+    {
+      "title": "FathomlessCrimson Mod(1.20.1)… —MinecraftJavaModDownload",
+      "link": "https://www.bing.com/ck/a?!&&p=d7b98ca329bf4a93030790abf851637b5265481aa41a5a25dd29dc7d508bb656JmltdHM9MTc4ODgyNTYwMA&ptn=3&ver=2&hsh=4&fclid=2655759d-8e3c-604d-1f21-62538fe7613e&u=a1aHR0cHM6Ly9tY21vZHNodWIuY29tL21vZC8xNzUwNTQ&ntb=1",
       "date": "2026-06-10",
       "source": "Bing搜索补充"
     }
