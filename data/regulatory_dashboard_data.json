@@ -1,187 +1,103 @@
 {
-  "last_updated": "2026-09-15T07:21:23.107360",
+  "last_updated": "2026-09-15T18:00:10.810275",
   "date_range": {
     "start": "2026-06-17",
     "end": "2026-09-15"
   },
   "regulations": [
     {
-      "title": "保險 - 维基百科，自由的百科全书",
-      "link": "https://www.bing.com/ck/a?!&&p=8f14ca64afc207d604a1398420a195f0fb98ea15fadeb3c6266e0147cedf5360JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=208324c9-1fc3-626c-2722-331c1e0963cc&u=a1aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3dpa2kvJUU0JUJGJTlEJUU5JTlBJUFB&ntb=1",
-      "date": "2026-06-17",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "中国太平洋保险官网可购买车险、人寿保险、养老保险、意外险、重疾险、理财保险等",
-      "link": "https://www.bing.com/ck/a?!&&p=aca87f9e7e84d21c65434f1d5a0d383ce5d55a9c4ab6882324f958631fe1be99JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=208324c9-1fc3-626c-2722-331c1e0963cc&u=a1aHR0cHM6Ly93d3cuY3BpYy5jb20uY24v&ntb=1",
-      "date": "2026-06-17",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "保险（契约经济关系）_百度百科",
-      "link": "https://www.bing.com/ck/a?!&&p=c86425a78c29d908e35146d33700fd2887f0a1247188377914f86acf6c0684afJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=208324c9-1fc3-626c-2722-331c1e0963cc&u=a1aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTQlQkYlOUQlRTklOTklQTkvMjYy&ntb=1",
-      "date": "2026-06-17",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "慧择保险网｜互联网保险经纪与一站式保险服务",
-      "link": "https://www.bing.com/ck/a?!&&p=15039a8889a11b0a7c8c29f9b7763468370c583b3b8dc6c5661cf8e6ce2bc857JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=208324c9-1fc3-626c-2722-331c1e0963cc&u=a1aHR0cHM6Ly93d3cuaHVpemUuY29tLw&ntb=1",
-      "date": "2026-06-17",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "平安集团官网_保险·车险·健康险·信用卡·投资理财一站式服务",
-      "link": "https://www.bing.com/ck/a?!&&p=a9f24e2abe4d09de971b3cc8473db8defe51245175f62292df5c0ae408709d0cJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=208324c9-1fc3-626c-2722-331c1e0963cc&u=a1aHR0cHM6Ly93d3cucGluZ2FuLmNvbS8&ntb=1",
-      "date": "2026-06-17",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "PICC中国人民保险集团官网-车险-财产保险-意外险-健康保险-旅游险",
-      "link": "https://www.bing.com/ck/a?!&&p=c4a8574b78b945660089c09db30b0b7ed8dbc17c72d792a64f519c59e57f9b8bJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=208324c9-1fc3-626c-2722-331c1e0963cc&u=a1aHR0cHM6Ly9lLnBpY2MuY29tLmNuLw&ntb=1",
-      "date": "2026-06-17",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "PICC - 中国人民保险集团股份有限公司",
-      "link": "https://www.bing.com/ck/a?!&&p=3582cba6be06a34147f41a46203131a86a907fab63f0b1cbad56a757a980e8b2JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=208324c9-1fc3-626c-2722-331c1e0963cc&u=a1aHR0cHM6Ly93d3cucGljYy5jb20uY24v&ntb=1",
-      "date": "2026-06-17",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "中民——优选好保险",
-      "link": "https://www.bing.com/ck/a?!&&p=f3874833cd015ff4bdd55f0e171de893a9902e8bcaa014c92239b30ac448e4c7JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=208324c9-1fc3-626c-2722-331c1e0963cc&u=a1aHR0cHM6Ly93d3cuemhvbmdtaW4uY24v&ntb=1",
-      "date": "2026-06-17",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "深蓝保官网-专业保险测评机构_为您寻找高性价比的保险产品",
-      "link": "https://www.bing.com/ck/a?!&&p=83a52e56016893bcf6ec202994ba15bb8aa200668534c874bb4e04f86b361214JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=208324c9-1fc3-626c-2722-331c1e0963cc&u=a1aHR0cHM6Ly93d3cuc2hlbmxhbmJhby5jb20v&ntb=1",
-      "date": "2026-06-17",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "阳光保险集团股份有限公司,阳光保险官方网站,网上购买保险,保险理赔,值得信赖的保险…",
-      "link": "https://www.bing.com/ck/a?!&&p=b559610bcbb4e034f4a576c967f6527c7fcc8274924ac9e26820c8426e312c0dJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=208324c9-1fc3-626c-2722-331c1e0963cc&u=a1aHR0cHM6Ly9zdGF0aWMuc2lub3NpZy5jb20v&ntb=1",
+      "title": "WhatsApp Web",
+      "link": "https://www.bing.com/ck/a?!&&p=24d186071997aaf35f53003bd3ec43869a2c5aa1552550e6fadd4a2349d7d3e5JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=365e4582-2903-60a4-1443-5257286a6185&u=a1aHR0cHM6Ly93ZWIud2hhdHNhcHAuY29tLw&ntb=1",
       "date": "2026-06-17",
       "source": "Bing搜索补充"
     },
     {
       "title": "国务院组成部门 - 维基百科，自由的百科全书",
-      "link": "https://www.bing.com/ck/a?!&&p=5767d567442c61a2a96569f2513bceb893cac62b0bdb880c7923999023bac117JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=03facd3f-b94b-672e-3c8d-daeab866665d&u=a1aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3dpa2kvJUU1JTlCJUJEJUU1JThBJUExJUU5JTk5JUEyJUU3JUJCJTg0JUU2JTg4JTkwJUU5JTgzJUE4JUU5JTk3JUE4&ntb=1",
+      "link": "https://www.bing.com/ck/a?!&&p=246f652b94430e5692f05ae31d2c1c8dc5fe0f74b307867cda8f0669086dd85fJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=2f751ee9-cb92-672a-357c-093ccad966df&u=a1aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3dpa2kvJUU1JTlCJUJEJUU1JThBJUExJUU5JTk5JUEyJUU3JUJCJTg0JUU2JTg4JTkwJUU5JTgzJUE4JUU5JTk3JUE4&ntb=1",
       "date": "2026-06-17",
       "source": "Bing搜索补充"
     },
     {
       "title": "国务院常务会议解读｜国务院常务会议研究算力网建设有关工作",
-      "link": "https://www.bing.com/ck/a?!&&p=6f6e16b538202abb223baeac13d7a916cd6a24f994f8bc1d2208b75ab258c65eJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=03facd3f-b94b-672e-3c8d-daeab866665d&u=a1aHR0cHM6Ly93d3cuZ292LmNuL3poZW5nY2UvMjAyNjA5L2NvbnRlbnRfNzA4MDgwNS5odG0&ntb=1",
+      "link": "https://www.bing.com/ck/a?!&&p=6c67f478ed97251ed8de9694ad64a31a5d287bb8f0b38a385bbf0c4be66cd264JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=2f751ee9-cb92-672a-357c-093ccad966df&u=a1aHR0cHM6Ly93d3cuZ292LmNuL3poZW5nY2UvMjAyNjA5L2NvbnRlbnRfNzA4MDgwNS5odG0&ntb=1",
       "date": "2026-06-17",
       "source": "Bing搜索补充"
     },
     {
       "title": "李强主持召开国务院常务会议 对加强安全生产工作作出进一步部署",
-      "link": "https://www.bing.com/ck/a?!&&p=b7cbdc1047794bc1c543f35aafafad0a9157a1a0abbd1a2ee6d573b786e27d50JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=03facd3f-b94b-672e-3c8d-daeab866665d&u=a1aHR0cHM6Ly93d3cuZ292LmNuL3lhb3dlbi9saWViaWFvLzIwMjYwOS9jb250ZW50XzcwODA3ODcuaHRt&ntb=1",
+      "link": "https://www.bing.com/ck/a?!&&p=2ad0122fd9fd9f8fa33e2a2d3e6ee9470c18976d79b70f81e466a627354a768fJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=2f751ee9-cb92-672a-357c-093ccad966df&u=a1aHR0cHM6Ly93d3cuZ292LmNuL3lhb3dlbi9saWViaWFvLzIwMjYwOS9jb250ZW50XzcwODA3ODcuaHRt&ntb=1",
       "date": "2026-06-17",
       "source": "Bing搜索补充"
     },
     {
       "title": "U.S. Department of State – Home",
-      "link": "https://www.bing.com/ck/a?!&&p=eba035c55aedad5a9be43f0a5f8e7b02cf7ea26dc557da147887867c241e6009JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=03facd3f-b94b-672e-3c8d-daeab866665d&u=a1aHR0cHM6Ly93d3cuc3RhdGUuZ292Lw&ntb=1",
+      "link": "https://www.bing.com/ck/a?!&&p=0895dc0b0e040650ba789edb93cef85d2b52eb37e8fd09272a80434892254c3aJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=2f751ee9-cb92-672a-357c-093ccad966df&u=a1aHR0cHM6Ly93d3cuc3RhdGUuZ292Lw&ntb=1",
       "date": "2026-06-17",
       "source": "Bing搜索补充"
     },
     {
       "title": "李强主持召开国务院常务会议_中华人民共和国国务院新闻办公室",
-      "link": "https://www.bing.com/ck/a?!&&p=62b8ef2f7c3f2e53906917d172f057d77c3df6a81265811cd8b9dacb8c773c94JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=03facd3f-b94b-672e-3c8d-daeab866665d&u=a1aHR0cDovL3d3dy5zY2lvLmdvdi5jbi95dy9scV8vMjAyNjA5L3QyMDI2MDkxMV8xMDA3Njg2Lmh0bWw&ntb=1",
+      "link": "https://www.bing.com/ck/a?!&&p=c511884f72077523017095755aaff3f3dd25e73cc6c301953bdc0f2554edb43eJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=2f751ee9-cb92-672a-357c-093ccad966df&u=a1aHR0cDovL3d3dy5zY2lvLmdvdi5jbi95dy9scV8vMjAyNjA5L3QyMDI2MDkxMV8xMDA3Njg2Lmh0bWw&ntb=1",
       "date": "2026-06-17",
       "source": "Bing搜索补充"
     },
     {
       "title": "中华人民共和国领导人列表 - 维基百科，自由的百科全书",
-      "link": "https://www.bing.com/ck/a?!&&p=271ef7403a62d4264500c908ab561d99f24849e156fac0719fad419a76ea212bJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=03facd3f-b94b-672e-3c8d-daeab866665d&u=a1aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3dpa2kvJUU0JUI4JUFEJUU1JThEJThFJUU0JUJBJUJBJUU2JUIwJTkxJUU1JTg1JUIxJUU1JTkyJThDJUU1JTlCJUJEJUU5JUEyJTg2JUU1JUFGJUJDJUU0JUJBJUJBJUU1JTg4JTk3JUU4JUExJUE4&ntb=1",
+      "link": "https://www.bing.com/ck/a?!&&p=4069c29447f66f59a549b4fb2421003b23501d50d0e621ff6938a521e15220d7JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=2f751ee9-cb92-672a-357c-093ccad966df&u=a1aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3dpa2kvJUU0JUI4JUFEJUU1JThEJThFJUU0JUJBJUJBJUU2JUIwJTkxJUU1JTg1JUIxJUU1JTkyJThDJUU1JTlCJUJEJUU5JUEyJTg2JUU1JUFGJUJDJUU0JUJBJUJBJUU1JTg4JTk3JUU4JUExJUE4&ntb=1",
       "date": "2026-06-17",
       "source": "Bing搜索补充"
     },
     {
       "title": "国务院国资委：中央企业带头及时支付账款-新华网",
-      "link": "https://www.bing.com/ck/a?!&&p=b651b769a2f7140310411bbf4de6c67cf5d9fd33b430ab840227bb00b3674382JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=03facd3f-b94b-672e-3c8d-daeab866665d&u=a1aHR0cHM6Ly93d3cubmV3cy5jbi9mb3J0dW5lLzIwMjYwOTE0LzdkOGVmMGVmNzMyMDRiMWU4NmVlNGZhODFjZGMzNzJlL2MuaHRtbA&ntb=1",
+      "link": "https://www.bing.com/ck/a?!&&p=97b5a2f4b34229091bdf79e1b1f70cac235055b57eaf012b6154aedf2aae4724JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=2f751ee9-cb92-672a-357c-093ccad966df&u=a1aHR0cHM6Ly93d3cubmV3cy5jbi9mb3J0dW5lLzIwMjYwOTE0LzdkOGVmMGVmNzMyMDRiMWU4NmVlNGZhODFjZGMzNzJlL2MuaHRtbA&ntb=1",
       "date": "2026-06-17",
       "source": "Bing搜索补充"
     },
     {
       "title": "[视频]李强主持召开国务院常务会议",
-      "link": "https://www.bing.com/ck/a?!&&p=4b1427cfa09ee844dcbf6c0c9a4ea58a57a94162f7eafef2d16a09cee79e3e83JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=03facd3f-b94b-672e-3c8d-daeab866665d&u=a1aHR0cHM6Ly90di5jY3R2LmNuLzIwMjYvMDkvMTEvVklERXZybHFyVDJSZzloYUVxdTdDNER4MjYwOTExLnNodG1s&ntb=1",
+      "link": "https://www.bing.com/ck/a?!&&p=1973ec2d2c96ddfe0d1800bf093db645aeccd28c9dac3cb478fefd249010accbJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=2f751ee9-cb92-672a-357c-093ccad966df&u=a1aHR0cHM6Ly90di5jY3R2LmNuLzIwMjYvMDkvMTEvVklERXZybHFyVDJSZzloYUVxdTdDNER4MjYwOTExLnNodG1s&ntb=1",
       "date": "2026-06-17",
       "source": "Bing搜索补充"
     },
     {
       "title": "李强主持召开国务院常务会议-新华网",
-      "link": "https://www.bing.com/ck/a?!&&p=32b8cd1399177822c259617437910c7c659dd6c55095593e47ff59a10ad82b9fJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=03facd3f-b94b-672e-3c8d-daeab866665d&u=a1aHR0cDovL3d3dzIueGluaHVhbmV0LmNvbS9wb2xpdGljcy8yMDI2MDkxMS9hZjEwMjFlYjYwM2I0OTNiYTNjNDcyN2Y1ZDNiYWYxYS9jLmh0bWw&ntb=1",
+      "link": "https://www.bing.com/ck/a?!&&p=3fd24a9d83424bc53b076789576d48b63912b29ec1bb2f30322b27429e32c2a5JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=2f751ee9-cb92-672a-357c-093ccad966df&u=a1aHR0cDovL3d3dzIueGluaHVhbmV0LmNvbS9wb2xpdGljcy8yMDI2MDkxMS9hZjEwMjFlYjYwM2I0OTNiYTNjNDcyN2Y1ZDNiYWYxYS9jLmh0bWw&ntb=1",
       "date": "2026-06-17",
       "source": "Bing搜索补充"
     },
     {
       "title": "一线发布丨国新办举行“开局起步‘十五五’”系列主题新闻发布会 介绍推 …",
-      "link": "https://www.bing.com/ck/a?!&&p=d860e6a7a41514b68850cec152faf7e94d8a33eaf018808f73d723a889b6ed09JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=03facd3f-b94b-672e-3c8d-daeab866665d&u=a1aHR0cHM6Ly95aWNhaS5zbWdiYi5jbi9saXZlLzEwMzM2MjAzNi5odG1s&ntb=1",
+      "link": "https://www.bing.com/ck/a?!&&p=ba76a727a3ad7f301c069fe72c6573201a65259cbe2a4ad7a81a0fe54b54f918JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=2f751ee9-cb92-672a-357c-093ccad966df&u=a1aHR0cHM6Ly95aWNhaS5zbWdiYi5jbi9saXZlLzEwMzM2MjAzNi5odG1s&ntb=1",
       "date": "2026-06-17",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Foundation Crack Repair: What to Know and How to DIY - Bob Vila",
-      "link": "https://www.bing.com/ck/a?!&&p=af53ec3cee9c9db18891cc1c9005652e9cc9d9f96f1734068d1517f59b679c80JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=1e2a56e1-c3b7-612d-02a3-4134c2eb605b&u=a1aHR0cHM6Ly93d3cuYm9idmlsYS5jb20vYXJ0aWNsZXMvcmVwYWlyaW5nLWEtZm91bmRhdGlvbi1jcmFjay8&ntb=1",
+      "title": "Jim Crow laws-Wikipedia",
+      "link": "https://www.bing.com/ck/a?!&&p=429376e7bbff477f6e29642560c54c6d618f7ed1fd141718b1fa55f44f1afabbJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=1d8564ac-4df4-63b9-0ece-73794c73625b&u=a1aHR0cHM6Ly9lbi5tLndpa2lwZWRpYS5vcmcvd2lraS9KaW1fQ3Jvd19sYXdz&ntb=1",
       "date": "2026-06-17",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Cracked Basement Foundation Repair2025: Ultimate Guide",
-      "link": "https://www.bing.com/ck/a?!&&p=848e98eecce069b0c582e2f3228278471b43f779fb832a61754ec40c21061867JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=1e2a56e1-c3b7-612d-02a3-4134c2eb605b&u=a1aHR0cHM6Ly9iYXNlbWVudHdhdGVycHJvb2ZpbmdzY2llbnRpc3RzLmNvbS9jcmFja2VkLWJhc2VtZW50LWZvdW5kYXRpb24tcmVwYWlyLWd1aWRlLw&ntb=1",
+      "title": "What Is the Origin ofthe Term “Jim Crow”? | Britannica",
+      "link": "https://www.bing.com/ck/a?!&&p=0df1c6ef4c3103b8041ffcfbd54a1506db29ecfd523e930f767e1c07fd3a2cadJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=1d8564ac-4df4-63b9-0ece-73794c73625b&u=a1aHR0cHM6Ly93d3cuYnJpdGFubmljYS5jb20vc3Rvcnkvd2hhdC1pcy10aGUtb3JpZ2luLW9mLXRoZS10ZXJtLWppbS1jcm93&ntb=1",
       "date": "2026-06-17",
       "source": "Bing搜索补充"
     },
     {
-      "title": "How toRepairaCrackin aBasementWall - Engineer Fix",
-      "link": "https://www.bing.com/ck/a?!&&p=b15e3654ac7a6b2dd925852c8534b5dde82bd8013951815cb7f71c6cd4999972JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=1e2a56e1-c3b7-612d-02a3-4134c2eb605b&u=a1aHR0cHM6Ly9lbmdpbmVlcmZpeC5jb20vaG93LXRvLXJlcGFpci1hLWNyYWNrLWluLWEtYmFzZW1lbnQtd2FsbC8&ntb=1",
+      "title": "Who WasJim Crow? -Jim CrowMuseum",
+      "link": "https://www.bing.com/ck/a?!&&p=73946802039d8075f2c20832ce162158cc6664bdb1265c9390a4323e8b13cc6bJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=1d8564ac-4df4-63b9-0ece-73794c73625b&u=a1aHR0cHM6Ly9qaW1jcm93bXVzZXVtLmZlcnJpcy5lZHUvd2hvL2luZGV4Lmh0bQ&ntb=1",
       "date": "2026-06-17",
       "source": "Bing搜索补充"
     },
     {
-      "title": "BasementWallCrack Repair: Secure Your Home in 5 Steps",
-      "link": "https://www.bing.com/ck/a?!&&p=1c3f74953c154ba48e4abc95a44e9bf509dd2ea1c60c34cc4a738735df26c47eJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=1e2a56e1-c3b7-612d-02a3-4134c2eb605b&u=a1aHR0cHM6Ly9iYXNlbWVudHdhdGVycHJvb2ZpbmdzY2llbnRpc3RzLmNvbS9iYXNlbWVudC13YWxsLWNyYWNrLXJlcGFpci1ndWlkZS8&ntb=1",
+      "title": "Jim Crow Laws: Definition, Examples & Timeline |HISTORY",
+      "link": "https://www.bing.com/ck/a?!&&p=9ce75d2deb61bc826146e007d6cbf6d3c2ad31955a2922009d0cac1717faa072JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=1d8564ac-4df4-63b9-0ece-73794c73625b&u=a1aHR0cHM6Ly93d3cuaGlzdG9yeS5jb20vYXJ0aWNsZXMvamltLWNyb3ctbGF3cw&ntb=1",
       "date": "2026-06-17",
       "source": "Bing搜索补充"
     },
     {
-      "title": "How ToRepairaCrack in a Concrete Foundation- This Old House",
-      "link": "https://www.bing.com/ck/a?!&&p=967a9327a2d33d19bd17341d8bd25b894c53122b8456d77d4dc65030aab4adaaJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=1e2a56e1-c3b7-612d-02a3-4134c2eb605b&u=a1aHR0cHM6Ly93d3cudGhpc29sZGhvdXNlLmNvbS9mb3VuZGF0aW9ucy9ob3ctdG8tcmVwYWlyLWEtY3JhY2staW4tYS1jb25jcmV0ZS1mb3VuZGF0aW9u&ntb=1",
-      "date": "2026-06-17",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "How to Fix Foundation Cracks: 13 Steps (with Pictures) - wikiHow",
-      "link": "https://www.bing.com/ck/a?!&&p=6e78c3918f8d3183abf3ce53a2ba3ad9c53ec0bf4bc64584a7e3ad23a594fe55JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=1e2a56e1-c3b7-612d-02a3-4134c2eb605b&u=a1aHR0cHM6Ly93d3cud2lraWhvdy5jb20vRml4LUZvdW5kYXRpb24tQ3JhY2tz&ntb=1",
-      "date": "2026-06-17",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "UnderstandingBasement FoundationWallCracks- This Old House",
-      "link": "https://www.bing.com/ck/a?!&&p=501477166daaf5709dbfe3aff20cee99aad5a0c5e1e90e5f9609bb298a39d6cdJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=1e2a56e1-c3b7-612d-02a3-4134c2eb605b&u=a1aHR0cHM6Ly93d3cudGhpc29sZGhvdXNlLmNvbS9iYXNlbWVudHMvd2hhdC10by1rbm93LWFib3V0LWZvdW5kYXRpb24td2FsbC1jcmFja3M&ntb=1",
-      "date": "2026-06-17",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "How to FixFoundation CracksYourself: 3 Best DIY Fixes",
-      "link": "https://www.bing.com/ck/a?!&&p=b4f9631ef676f711871abba90151762e69132e13c71e83692187df318dbec35bJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=1e2a56e1-c3b7-612d-02a3-4134c2eb605b&u=a1aHR0cHM6Ly9iYXNlbWVudG1vaXN0dXJlbGFiLmNvbS9ibG9nL2hvdy10by1maXgtZm91bmRhdGlvbi1jcmFja3MteW91cnNlbGYv&ntb=1",
-      "date": "2026-06-17",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "BasementWallCrack RepairMade Easy | DIYFoundationFix",
-      "link": "https://www.bing.com/ck/a?!&&p=26c2e67a3b20e5f8b7e752dd9a93162ddc20afbb19b1ab22de79bb82e9b803eeJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=1e2a56e1-c3b7-612d-02a3-4134c2eb605b&u=a1aHR0cHM6Ly93d3cucmFkb25zZWFsLmNvbS9hcnRpY2xlcy9iYXNlbWVudC1jcmFja3MuaHRt&ntb=1",
-      "date": "2026-06-17",
-      "source": "Bing搜索补充"
-    },
-    {
-      "title": "Don't Panic! Here's How To Identify AndRepairTheCracksIn Your ...",
-      "link": "https://www.bing.com/ck/a?!&&p=047345e82ad1f4142674d85367ef80a0aa9b6e5b3e504e92d86ee22bfe6bc926JmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=1e2a56e1-c3b7-612d-02a3-4134c2eb605b&u=a1aHR0cHM6Ly93d3cuaG91c2VkaWdlc3QuY29tLzIwMzE3NzMvZm91bmRhdGlvbi1jcmFjay1ob3ctdG8tZml4Lw&ntb=1",
+      "title": "Jim Crow (character) -Wikipedia",
+      "link": "https://www.bing.com/ck/a?!&&p=9651bd5c46e16c7a87c765e396037075a92d2df753d0be9a3d7bd5d88801f8fbJmltdHM9MTc4OTQzMDQwMA&ptn=3&ver=2&hsh=4&fclid=1d8564ac-4df4-63b9-0ece-73794c73625b&u=a1aHR0cHM6Ly9lbi5tLndpa2lwZWRpYS5vcmcvd2lraS9KaW1fQ3Jvd18oY2hhcmFjdGVyKQ&ntb=1",
       "date": "2026-06-17",
       "source": "Bing搜索补充"
     }
