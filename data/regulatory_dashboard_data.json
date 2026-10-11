@@ -1,127 +1,163 @@
 {
-  "last_updated": "2026-10-11T08:24:53.519061",
+  "last_updated": "2026-10-11T18:40:38.076011",
   "date_range": {
     "start": "2026-07-13",
     "end": "2026-10-11"
   },
   "regulations": [
     {
-      "title": "whatsanswer.com",
-      "link": "https://www.bing.com/ck/a?!&&p=70d3127a7dd88262f8fdb670644bb7bf5b10f588c1ab10fee1df8f82525a432aJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=067dec45-a9a2-6f27-2789-fbaaa85d6e96&u=a1aHR0cHM6Ly93aGF0c2Fuc3dlci5jb20vd3AtY29udGVudC91cGxvYWRzL2Jsb2Nrc3kvbG9jYWwtZ29vZ2xlLWZvbnRzL3MvcHJvbXB0L3YxMC8tV184WEpudlVEN2R6QjJDa19rSWZXTXVVWmN0ZGhvdy53b2ZmMg&ntb=1",
+      "title": "KY Football (High School) - BluegrassPreps.com",
+      "link": "https://www.bing.com/ck/a?!&&p=4c50da5d6f8a51b2c5577fe1c2d2db64a7b1bba9b3833490b986f48afee29e72JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1e850e5b-dcfd-6b20-0f50-19b4dd2a6a15&u=a1aHR0cHM6Ly9ibHVlZ3Jhc3NwcmVwcy5jb20vZm9ydW1zL2ZvcnVtLzQta3ktZm9vdGJhbGwtaGlnaC1zY2hvb2wv&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     },
     {
-      "title": "whatsanswer.com",
-      "link": "https://www.bing.com/ck/a?!&&p=972474b3c36014a4065399cdbe1e0399f0cfc8bac2d7f2a6f1a678ae84ae3d75JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=067dec45-a9a2-6f27-2789-fbaaa85d6e96&u=a1aHR0cHM6Ly93aGF0c2Fuc3dlci5jb20vd3AtY29udGVudC91cGxvYWRzL2Jsb2Nrc3kvbG9jYWwtZ29vZ2xlLWZvbnRzL3Mvc2FyYWJ1bi92MTUvRHRWaEp4MjZUS0VyMzdjOVlIWjVrM3dKeEFyZXB6aE4ud29mZjI&ntb=1",
+      "title": "TOP | eFootball 公式サイト - KONAMI",
+      "link": "https://www.bing.com/ck/a?!&&p=d90e1a1b5227ce4b0a6a22b2c83d12bba2b55a5c72f157c1db7fee0df295bc7aJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1e850e5b-dcfd-6b20-0f50-19b4dd2a6a15&u=a1aHR0cHM6Ly93d3cua29uYW1pLmNvbS9lZm9vdGJhbGwvamEv&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     },
     {
-      "title": "whatsanswer.com",
-      "link": "https://www.bing.com/ck/a?!&&p=f458bc1ebd4d7c84d0615101e610ee1d2fe10e308c489c03fb7097c164bf64a4JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=067dec45-a9a2-6f27-2789-fbaaa85d6e96&u=a1aHR0cHM6Ly93aGF0c2Fuc3dlci5jb20vd3AtY29udGVudC91cGxvYWRzL2Jsb2Nrc3kvbG9jYWwtZ29vZ2xlLWZvbnRzL3MvcHJvbXB0L3YxMC8tV185WEpudlVEN2R6QjJDQS1vUVRrWUJlWjBsVGlNLndvZmYy&ntb=1",
+      "title": "Frankfort Hires Stephen Davis - KY Football (High School ...",
+      "link": "https://www.bing.com/ck/a?!&&p=31aca07a003efa638eba7efbf10220c3e2ae1c11085888c8bf7ab85dab1943e8JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1e850e5b-dcfd-6b20-0f50-19b4dd2a6a15&u=a1aHR0cHM6Ly9ibHVlZ3Jhc3NwcmVwcy5jb20vZm9ydW1zL3RvcGljLzIzOTUyOS1mcmFua2ZvcnQtaGlyZXMtc3RlcGhlbi1kYXZpcy8&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     },
     {
-      "title": "whatsanswer.com",
-      "link": "https://www.bing.com/ck/a?!&&p=57abf043fdcad7ab8eda937c3a84d55c0ac8b0298b411faa9aa8dfcdf56067e4JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=067dec45-a9a2-6f27-2789-fbaaa85d6e96&u=a1aHR0cHM6Ly93aGF0c2Fuc3dlci5jb20vd3AtY29udGVudC91cGxvYWRzL2Jsb2Nrc3kvbG9jYWwtZ29vZ2xlLWZvbnRzL3Mvc2FyYWJ1bi92MTUvRHRWbUp4MjZUS0VyMzdjOVlLNXNpbHNzNnlMVXJ3QS53b2ZmMg&ntb=1",
+      "title": "TOP | eFootball™ Official Site - KONAMI",
+      "link": "https://www.bing.com/ck/a?!&&p=d9681c5aea03765ab73b0f3ae73c70a68263854ede2aaa733507ea4a214e44aaJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1e850e5b-dcfd-6b20-0f50-19b4dd2a6a15&u=a1aHR0cHM6Ly93d3cua29uYW1pLmNvbS9lZm9vdGJhbGwvZW4v&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     },
     {
-      "title": "whatsanswer.com",
-      "link": "https://www.bing.com/ck/a?!&&p=51a8dedc082b5c47eccee9e537f27991c3522397d0f920b048facf2746214110JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=067dec45-a9a2-6f27-2789-fbaaa85d6e96&u=a1aHR0cHM6Ly93aGF0c2Fuc3dlci5jb20vd3AtY29udGVudC91cGxvYWRzL2Jsb2Nrc3kvbG9jYWwtZ29vZ2xlLWZvbnRzL3Mva2FuaXQvdjE1L25LS1UtR282RzV0WGNyNC1PUlduVmFGck5sSnoud29mZjI&ntb=1",
+      "title": "Northern Kentucky Football Legend Mike Murphy Has Died",
+      "link": "https://www.bing.com/ck/a?!&&p=fddb472f29f06b13a37a4c56f1b11edfd68368084cb341203f04b572daa2a9b5JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1e850e5b-dcfd-6b20-0f50-19b4dd2a6a15&u=a1aHR0cHM6Ly9ibHVlZ3Jhc3NwcmVwcy5jb20vZm9ydW1zL3RvcGljLzE5Mzk0OS1ub3J0aGVybi1rZW50dWNreS1mb290YmFsbC1sZWdlbmQtbWlrZS1tdXJwaHktaGFzLWRpZWQv&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     },
     {
-      "title": "whatsanswer.com",
-      "link": "https://www.bing.com/ck/a?!&&p=b4185accb8a6119e7f3e5a3a4547fe82ec77242c862c5deff5f867faa3b15ecfJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=067dec45-a9a2-6f27-2789-fbaaa85d6e96&u=a1aHR0cHM6Ly93aGF0c2Fuc3dlci5jb20vd3AtY29udGVudC91cGxvYWRzL2Jsb2Nrc3kvbG9jYWwtZ29vZ2xlLWZvbnRzL3Mvc2FyYWJ1bi92MTUvRHRWbUp4MjZUS0VyMzdjOVlLNXNpazhzNnlMVXJ3QjBsdy53b2ZmMg&ntb=1",
+      "title": "KY Football (High School) - Page 2 - BluegrassPreps.com",
+      "link": "https://www.bing.com/ck/a?!&&p=7e49da26c846c7e33baad828b7572bececbdd96e6c228437667db55264ff647aJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1e850e5b-dcfd-6b20-0f50-19b4dd2a6a15&u=a1aHR0cHM6Ly9ibHVlZ3Jhc3NwcmVwcy5jb20vZm9ydW1zL2ZvcnVtLzQta3ktZm9vdGJhbGwtaGlnaC1zY2hvb2wvcGFnZS8yLw&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     },
     {
-      "title": "whatsanswer.com",
-      "link": "https://www.bing.com/ck/a?!&&p=9bd7535cbd70d13941531826dbdb62303617285027b802ebe47f9955f15980c1JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=067dec45-a9a2-6f27-2789-fbaaa85d6e96&u=a1aHR0cHM6Ly93aGF0c2Fuc3dlci5jb20vd3AtY29udGVudC91cGxvYWRzL2Jsb2Nrc3kvbG9jYWwtZ29vZ2xlLWZvbnRzL3MvcHJvbXB0L3YxMC8tV182WEpudlVEN2R6QjJLWmVMUWIxTTRXNUFQZENveDJnVS53b2ZmMg&ntb=1",
+      "title": "Open Jobs/Filled Jobs 2025-2026 - KY Football (High School ...",
+      "link": "https://www.bing.com/ck/a?!&&p=b93db08c7a11e2d4c4a7ccf524758f3036ddd2e533ac4ff82f9791a77136fbcdJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1e850e5b-dcfd-6b20-0f50-19b4dd2a6a15&u=a1aHR0cHM6Ly9ibHVlZ3Jhc3NwcmVwcy5jb20vZm9ydW1zL3RvcGljLzI1NTgzNi1vcGVuLWpvYnNmaWxsZWQtam9icy0yMDI1LTIwMjYv&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Redirecting...",
-      "link": "https://www.bing.com/ck/a?!&&p=673cc00a51458cc7c9a697e98a6ab313fe1b89c4a2e44a57b2bc6d786022f13fJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=067dec45-a9a2-6f27-2789-fbaaa85d6e96&u=a1aHR0cHM6Ly93aGF0c2Fuc3dlci5jb20vdXNhL21vdW5kdmlsbGUtdmVybm9uLWNvdW50eS1tby10aW1lLXJpZ2h0LW5vdy8&ntb=1",
+      "title": "Hadi eFootball™ Oynayalım | eFootball™ Official Site - KONAMI",
+      "link": "https://www.bing.com/ck/a?!&&p=92af0548e3bb0986a58376bf6c8cddcd19652eff19c87dc2b3e671d79f22a5bfJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1e850e5b-dcfd-6b20-0f50-19b4dd2a6a15&u=a1aHR0cHM6Ly93d3cua29uYW1pLmNvbS9lZm9vdGJhbGwvdHIvcGFnZS9vdmVydmlldw&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     },
     {
-      "title": "吉林大学虚拟校园|三维校园GIS|智慧校园可视化平台|校园地图|数字孪生 …",
-      "link": "https://www.bing.com/ck/a?!&&p=6b65680efdf4e34bff00c490953d728528bcb06c15271d7bb744cf2e7781a78fJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=389dbdbf-7e6a-6bbc-060d-aa507f246a38&u=a1aHR0cHM6Ly9tYXAuamx1LmVkdS5jbi9pbmRleC8&ntb=1",
+      "title": "Contact - KONAMI",
+      "link": "https://www.bing.com/ck/a?!&&p=2f9e2d8320b9b1c8ea94442cb881335fd5d440fa970fe2a7f867ed28954d4555JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1e850e5b-dcfd-6b20-0f50-19b4dd2a6a15&u=a1aHR0cHM6Ly93d3cua29uYW1pLmNvbS9lZm9vdGJhbGwvbW9iaWxlX3N1cHBvcnQvZW4vdHJhbnNmZXIvYWJvdXQy&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     },
     {
-      "title": "查询结果",
-      "link": "https://www.bing.com/ck/a?!&&p=14227e26a2b3c40044832f83fd1ed7e1ddacc1b3cc742068d2b2e4ee4359fb3fJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=389dbdbf-7e6a-6bbc-060d-aa507f246a38&u=a1aHR0cHM6Ly9tYXAuamx1LmVkdS5jbi9zZWFyY2g&ntb=1",
+      "title": "TOP | eFootball™ Kick-Off! | KONAMI",
+      "link": "https://www.bing.com/ck/a?!&&p=01f1eb223acded7e1cf99f5e603c4dcebb6428e2aa7fd45d762a63e45d2a8b1dJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1e850e5b-dcfd-6b20-0f50-19b4dd2a6a15&u=a1aHR0cHM6Ly93d3cua29uYW1pLmNvbS9lZm9vdGJhbGwva2ljay1vZmYvYXNpYS9rby8&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     },
     {
-      "title": "Order a la carte on the McDonald's app... - Reddit",
-      "link": "https://www.bing.com/ck/a?!&&p=d911a48c796859b226a549c8e2280d0e99de8a84d6a19fccb8c9ee4747a51eeaJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1b5c3901-b43f-6890-0656-2eeeb5796981&u=a1aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL2Nhcm5pdm9yZS9jb21tZW50cy93cThxZHcvb3JkZXJfYV9sYV9jYXJ0ZV9vbl90aGVfbWNkb25hbGRzX2FwcC8&ntb=1",
+      "title": "„Gmail“ naudojimas „Google“ paskyrai pasiekti",
+      "link": "https://www.bing.com/ck/a?!&&p=868d83001cd5ecc492adacff3424805e7f317b251b8e0a9e858babfbbf4bc408JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=33fa180e-3956-65af-3d90-0fe1383d644e&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vYWNjb3VudHMvYW5zd2VyLzc2MTk0P2hsPWx0&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     },
     {
-      "title": "McDonald's - Reddit",
-      "link": "https://www.bing.com/ck/a?!&&p=0b3da7a7fb2822cde8c97ce775c4a0488cec3ba7891bd1c393081db4f7ca9d6eJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1b5c3901-b43f-6890-0656-2eeeb5796981&u=a1aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL01jRG9uYWxkcy9hYm91dC8&ntb=1",
+      "title": "Is there a customer service phone number for Gmail accounts? I need …",
+      "link": "https://www.bing.com/ck/a?!&&p=563fde77d1e3f4a92e2aaec961f70ebbc9c4e803ec366e1636fbc847c10fd628JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=33fa180e-3956-65af-3d90-0fe1383d644e&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vYWNjb3VudHMvdGhyZWFkLzEyODAwMjA5Ni9pcy10aGVyZS1hLWN1c3RvbWVyLXNlcnZpY2UtcGhvbmUtbnVtYmVyLWZvci1nbWFpbC1hY2NvdW50cy1pLW5lZWQtdG8tc3BlYWstdG8tYS1wZXJzb24_aGw9ZW4&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     },
     {
-      "title": "I like McDonald's : r/unpopularopinion - Reddit",
-      "link": "https://www.bing.com/ck/a?!&&p=04a036f2c7529c145e35696a978d8e95f0766ac74c7a8d2161a1877d5407d353JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1b5c3901-b43f-6890-0656-2eeeb5796981&u=a1aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL3VucG9wdWxhcm9waW5pb24vY29tbWVudHMvOWsxbWIyL2lfbGlrZV9tY2RvbmFsZHMv&ntb=1",
+      "title": "No \"App passwords\" under \"Security\" -> \"Signing in to Google\" panel",
+      "link": "https://www.bing.com/ck/a?!&&p=19d9123157c2eb94bf9c934db23c25d94cb1f4d191ccbbb145c224c782c4f733JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=33fa180e-3956-65af-3d90-0fe1383d644e&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vbWFpbC90aHJlYWQvNDQ3NzE0NS9uby1hcHAtcGFzc3dvcmRzLXVuZGVyLXNlY3VyaXR5LXNpZ25pbmctaW4tdG8tZ29vZ2xlLXBhbmVsP2hsPWVu&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     },
     {
-      "title": "TIL that McDonald's really does use 100% beef in their patties ... - Reddit",
-      "link": "https://www.bing.com/ck/a?!&&p=f72dbf63768ef176fa1000a827845c49823eec68a35ea360558cccb2877d6ed4JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1b5c3901-b43f-6890-0656-2eeeb5796981&u=a1aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL3RvZGF5aWxlYXJuZWQvY29tbWVudHMvMmtzN2tiL3RpbF90aGF0X21jZG9uYWxkc19yZWFsbHlfZG9lc191c2VfMTAwX2JlZWZfaW4v&ntb=1",
+      "title": "Inbox shows 1 unread message - Gmail Community",
+      "link": "https://www.bing.com/ck/a?!&&p=05dac14defe1a1f4a496fd441c17f89c323a86445010e6591028cc8a608d999dJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=33fa180e-3956-65af-3d90-0fe1383d644e&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vbWFpbC90aHJlYWQvMjY1ODYzNTg3L2luYm94LXNob3dzLTEtdW5yZWFkLW1lc3NhZ2U_aGw9ZW4&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     },
     {
-      "title": "McDonald's eCDP - eCrew Dev. Program ROM (NDS) INSTALL?",
-      "link": "https://www.bing.com/ck/a?!&&p=f41dd09b3ca9da87d44d374003768ed4bec1b92c9996089d9ce9a3564bba03e3JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1b5c3901-b43f-6890-0656-2eeeb5796981&u=a1aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL09wZW5FbXUvY29tbWVudHMva3JmdjU3L21jZG9uYWxkc19lY2RwX2VjcmV3X2Rldl9wcm9ncmFtX3JvbV9uZHNfaW5zdGFsbC8&ntb=1",
+      "title": "Sign in to multiple accounts at once",
+      "link": "https://www.bing.com/ck/a?!&&p=199d6e749b3a67e56494cef66a40c46ce3737046e7f3b3402e08dec6651c4904JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=33fa180e-3956-65af-3d90-0fe1383d644e&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vYWNjb3VudHMvYW5zd2VyLzE3MjE5Nzc_aGw9ZW4mY289R0VOSUUuUGxhdGZvcm0lM0REZXNrdG9w&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     },
     {
-      "title": "How easy is it for a person to be hired at McDonald’s - Reddit",
-      "link": "https://www.bing.com/ck/a?!&&p=29623bd7274a5dcd88aa71a1e74536f283091b0ebdbf56ffb8715dee4f1555beJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1b5c3901-b43f-6890-0656-2eeeb5796981&u=a1aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL01jRG9uYWxkc0VtcGxveWVlcy9jb21tZW50cy8xNTNqOTFyL2hvd19lYXN5X2lzX2l0X2Zvcl9hX3BlcnNvbl90b19iZV9oaXJlZF9hdC8&ntb=1",
+      "title": "Change the phone number on your account & how it's used",
+      "link": "https://www.bing.com/ck/a?!&&p=fd99716394c91b5dbf7620d0ae4c8899d45206e507d594a5856f269c27e277a7JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=33fa180e-3956-65af-3d90-0fe1383d644e&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vYWNjb3VudHMvYW5zd2VyLzM0NjMyODA_aGw9ZW4mY289R0VOSUUuUGxhdGZvcm0lM0REZXNrdG9w&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     },
     {
-      "title": "McDonald's receipt from 1998 vs. 2017 : r/mildlyinteresting - Reddit",
-      "link": "https://www.bing.com/ck/a?!&&p=087b7178a3ae7c27a59889adf855d7eab06730b303f15049aa0a6330fb30d23dJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1b5c3901-b43f-6890-0656-2eeeb5796981&u=a1aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL21pbGRseWludGVyZXN0aW5nL2NvbW1lbnRzLzZyNmlocC9tY2RvbmFsZHNfcmVjZWlwdF9mcm9tXzE5OThfdnNfMjAxNy8&ntb=1",
+      "title": "Sync Google Contacts with your mobile device or computer",
+      "link": "https://www.bing.com/ck/a?!&&p=fdb3abe0efd0d44989a5560a9882f9a59858a7de8f4b10c86865915312299c22JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=33fa180e-3956-65af-3d90-0fe1383d644e&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vY29udGFjdHMvYW5zd2VyLzI3NTMwNzc_aGw9ZW4mY289R0VOSUUuUGxhdGZvcm0lM0RpT1M&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     },
     {
-      "title": "ELI5: McDonald's unmistakble smell. : r/explainlikeimfive - Reddit",
-      "link": "https://www.bing.com/ck/a?!&&p=cc5e247fd0d6010b042a4c47bd706ef366eb95003106fe3be9d6b193dfcbf22aJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1b5c3901-b43f-6890-0656-2eeeb5796981&u=a1aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL2V4cGxhaW5saWtlaW1maXZlL2NvbW1lbnRzLzNvNHVnMi9lbGk1X21jZG9uYWxkc191bm1pc3Rha2JsZV9zbWVsbC8&ntb=1",
+      "title": "Gmail Community - Google Help",
+      "link": "https://www.bing.com/ck/a?!&&p=ec0ec7bde8f5b1271cf533364a9da769c077e8241616d13030baae12046b3dc0JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=33fa180e-3956-65af-3d90-0fe1383d644e&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vbWFpbC9jb21tdW5pdHk_aGw9ZW4&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     },
     {
-      "title": "The place for McDonald's employees! - Reddit",
-      "link": "https://www.bing.com/ck/a?!&&p=0f7f129cbb698c81144e52d234b7880b38f129bb30e2e0314d0d18e121041aafJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1b5c3901-b43f-6890-0656-2eeeb5796981&u=a1aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL01jTG91bmdlLw&ntb=1",
+      "title": "登录 Gmail - 计算机 - Gmail帮助",
+      "link": "https://www.bing.com/ck/a?!&&p=60a7e6c28d61f131b9781dccb626d19bd2a1596058e0f7fed957d95b8da6e350JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=33fa180e-3956-65af-3d90-0fe1383d644e&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vbWFpbC9hbnN3ZXIvODQ5ND9obD16aC1IYW5zJmNvPUdFTklFLlBsYXRmb3JtJTNERGVza3RvcA&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     },
     {
-      "title": "What Mcdonald's chicken nuggets really contain : r/food - Reddit",
-      "link": "https://www.bing.com/ck/a?!&&p=f1f77bf864ecf641b36e3c6888197be4e194253325dac8c59e5d97da0ce3f383JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=1b5c3901-b43f-6890-0656-2eeeb5796981&u=a1aHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL2Zvb2QvY29tbWVudHMvZjNueWMvd2hhdF9tY2RvbmFsZHNfY2hpY2tlbl9udWdnZXRzX3JlYWxseV9jb250YWluLw&ntb=1",
+      "title": "How do i create a second email address in my gmail account.",
+      "link": "https://www.bing.com/ck/a?!&&p=6e3a7b7f9281baa9c545ae6fcef310073d9a2db4633fdf7ddec452a7cdccceb2JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=33fa180e-3956-65af-3d90-0fe1383d644e&u=a1aHR0cHM6Ly9zdXBwb3J0Lmdvb2dsZS5jb20vYWNjb3VudHMvdGhyZWFkLzExMTQ2OTA4L2hvdy1kby1pLWNyZWF0ZS1hLXNlY29uZC1lbWFpbC1hZGRyZXNzLWluLW15LWdtYWlsLWFjY291bnQ_aGw9ZW4&ntb=1",
+      "date": "2026-07-13",
+      "source": "Bing搜索补充"
+    },
+    {
+      "title": "Linseed Oil for Turbine Sealing - Now in Birkosit - GlobalSpec",
+      "link": "https://www.bing.com/ck/a?!&&p=8ce7a0a28a0a5c3c9d23a513851749427536a759a5325792d65be3b884b91125JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=36c47621-dc2e-6e74-1c1a-61ceddf96f10&u=a1aHR0cHM6Ly9jcjQuZ2xvYmFsc3BlYy5jb20vdGhyZWFkLzczNzY4L0xpbnNlZWQtT2lsLWZvci1UdXJiaW5lLVNlYWxpbmctTm93LWluLUJpcmtvc2l0&ntb=1",
+      "date": "2026-07-13",
+      "source": "Bing搜索补充"
+    },
+    {
+      "title": "WD 40 / Original or Specialist ? - CR4 Discussion Thread",
+      "link": "https://www.bing.com/ck/a?!&&p=e52dd5c6f215c7630755b2f0e338407a517c62f0f50b7d44adaf917a619fdf6cJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=36c47621-dc2e-6e74-1c1a-61ceddf96f10&u=a1aHR0cHM6Ly9jcjQuZ2xvYmFsc3BlYy5jb20vdGhyZWFkLzEwMjI5OC9XRC00MC1PcmlnaW5hbC1vci1TcGVjaWFsaXN0&ntb=1",
+      "date": "2026-07-13",
+      "source": "Bing搜索补充"
+    },
+    {
+      "title": "CR4 - Blog Entry: DIY Trailer Hitch Wiring Solutions (Part 2)",
+      "link": "https://www.bing.com/ck/a?!&&p=61328e8064ed29fca4615939f420cd219cb5811261d127191dea3ca7da1ad37aJmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=36c47621-dc2e-6e74-1c1a-61ceddf96f10&u=a1aHR0cHM6Ly9jcjQuZ2xvYmFsc3BlYy5jb20vYmxvZ2VudHJ5Lzk0NjUvRElZLVRyYWlsZXItSGl0Y2gtV2lyaW5nLVNvbHV0aW9ucy1QYXJ0LTI&ntb=1",
+      "date": "2026-07-13",
+      "source": "Bing搜索补充"
+    },
+    {
+      "title": "Free Online Instrumentation Certificate Courses - CR4 Discussion Thread",
+      "link": "https://www.bing.com/ck/a?!&&p=58f54338e78fd7cbe244ec39cd24b4dbb38992043996bf8688157bd034bc7b96JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=36c47621-dc2e-6e74-1c1a-61ceddf96f10&u=a1aHR0cHM6Ly9jcjQuZ2xvYmFsc3BlYy5jb20vdGhyZWFkLzcwNDU3L0ZyZWUtT25saW5lLUluc3RydW1lbnRhdGlvbi1DZXJ0aWZpY2F0ZS1Db3Vyc2Vz&ntb=1",
+      "date": "2026-07-13",
+      "source": "Bing搜索补充"
+    },
+    {
+      "title": "Is There an Effective Way to Keep Snow Off the Satellite Dish?",
+      "link": "https://www.bing.com/ck/a?!&&p=4836ad1ae07479c5907473c470350fe743a6a81874e217bc6089122a9f394519JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=36c47621-dc2e-6e74-1c1a-61ceddf96f10&u=a1aHR0cHM6Ly9jcjQuZ2xvYmFsc3BlYy5jb20vdGhyZWFkLzUxMDA4L0lzLVRoZXJlLWFuLUVmZmVjdGl2ZS1XYXktdG8tS2VlcC1Tbm93LU9mZi10aGUtU2F0ZWxsaXRlLURpc2g&ntb=1",
+      "date": "2026-07-13",
+      "source": "Bing搜索补充"
+    },
+    {
+      "title": "Rock And Water Containers For Heat Storage Mass",
+      "link": "https://www.bing.com/ck/a?!&&p=e821db4f9787475f433d42e401209cee522970dd2c088af0e4080d577304b938JmltdHM9MTc5MTY3NjgwMA&ptn=3&ver=2&hsh=4&fclid=36c47621-dc2e-6e74-1c1a-61ceddf96f10&u=a1aHR0cHM6Ly9jcjQuZ2xvYmFsc3BlYy5jb20vdGhyZWFkLzc3ODUxL1JvY2stQW5kLVdhdGVyLUNvbnRhaW5lcnMtRm9yLUhlYXQtU3RvcmFnZS1NYXNz&ntb=1",
       "date": "2026-07-13",
       "source": "Bing搜索补充"
     }
