@@ -1,6 +1,21 @@
 {
   "regulation_groups": [
     {
+      "levelName": "【效力层级2】部门规章",
+      "items": [
+        {
+          "sn": 1,
+          "name": "金融监管总局职能配置、内设机构和人员编制规定__中国政府网",
+          "issuer": "Bing搜索补充",
+          "date": "2026-07-31",
+          "summary": "金融监管总局职能配置、内设机构和人员编制规定__中国政府网",
+          "level": "部门规章",
+          "link": "https://www.bing.com/ck/a?!&&p=19e1a8709501d5116632f525d1cda4babe906fe0ede1856b659f0e2641ab4b1dJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=39356593-fd40-6810-38ba-7d92fcdf6975&u=a1aHR0cHM6Ly93d3cuZ292LmNuL3poZW5nY2UvMjAyMzExL2NvbnRlbnRfNjkxNDczNi5odG0&ntb=1",
+          "linkNote": "官方链接"
+        }
+      ]
+    },
+    {
       "levelName": "【效力层级3】规范性文件",
       "items": [
         {
@@ -10,27 +25,27 @@
           "date": "2026-07-31",
           "summary": "中国太平洋保险官网可购买车险、人寿保险、养老保险、意外险、重疾险、理财保险等",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=0c0d7f94d9f3e19f4b9d17692d89dcc61a711f2db9850557db7bae213adad787JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3961ae28-d060-6984-27ff-b629d1f26872&u=a1aHR0cHM6Ly93d3cuY3BpYy5jb20uY24v&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=91bbe728c15fb8366d3b08126c7e8e667813ee826da360b209f4e9037c45a8f5JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3d7363c3-6a76-6999-3d92-7bc26b4e6875&u=a1aHR0cHM6Ly93d3cuY3BpYy5jb20uY24v&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 2,
-          "name": "保险（契约经济关系）_百度百科",
-          "issuer": "Bing搜索补充",
-          "date": "2026-07-31",
-          "summary": "保险（契约经济关系）_百度百科",
-          "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=b14765c761b37eabb33f23d00af0ebcdf2bccd9b1b54c576c5bdeed48872fe84JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3961ae28-d060-6984-27ff-b629d1f26872&u=a1aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTQlQkYlOUQlRTklOTklQTkvMjYy&ntb=1",
-          "linkNote": "官方链接"
-        },
-        {
-          "sn": 3,
           "name": "平安集团官网_保险·车险·健康险·信用卡·投资理财一站式服务",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
           "summary": "平安集团官网_保险·车险·健康险·信用卡·投资理财一站式服务",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=23dab7908a1d83f0e6231ebf71077029fe0e646aee12f7ad6ee6f88557abc2d6JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3961ae28-d060-6984-27ff-b629d1f26872&u=a1aHR0cHM6Ly93d3cucGluZ2FuLmNvbS8&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=561ef3c2bb7a3618a7eafa02fcd097de45b6e1e75a43bf731da39d9406571f01JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3d7363c3-6a76-6999-3d92-7bc26b4e6875&u=a1aHR0cHM6Ly93d3cucGluZ2FuLmNvbS8&ntb=1",
+          "linkNote": "官方链接"
+        },
+        {
+          "sn": 3,
+          "name": "保险（契约经济关系）_百度百科",
+          "issuer": "Bing搜索补充",
+          "date": "2026-07-31",
+          "summary": "保险（契约经济关系）_百度百科",
+          "level": "其他规范性文件",
+          "link": "https://www.bing.com/ck/a?!&&p=13237ec7cb54e0b9f191e3470445d4f717b87becb75b8e436041ae39d8ff135fJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3d7363c3-6a76-6999-3d92-7bc26b4e6875&u=a1aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTQlQkYlOUQlRTklOTklQTkvMjYy&ntb=1",
           "linkNote": "官方链接"
         },
         {
@@ -40,27 +55,27 @@
           "date": "2026-07-31",
           "summary": "慧择保险网｜互联网保险经纪与一站式保险服务",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=0c517cae97c3c175182d1a8453138fcd67279f913bd04ff46f0ef2d095123ff0JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3961ae28-d060-6984-27ff-b629d1f26872&u=a1aHR0cHM6Ly93d3cuaHVpemUuY29tLw&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=12ebdcd115e25d479e8e7f29902028c37e9a69ce3fa3035019dc806386724e5dJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3d7363c3-6a76-6999-3d92-7bc26b4e6875&u=a1aHR0cHM6Ly93d3cuaHVpemUuY29tLw&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 5,
+          "name": "开心保保险网-好保险,聪明选.网上买保险推荐平台!",
+          "issuer": "Bing搜索补充",
+          "date": "2026-07-31",
+          "summary": "开心保保险网-好保险,聪明选.网上买保险推荐平台!",
+          "level": "其他规范性文件",
+          "link": "https://www.bing.com/ck/a?!&&p=bea8b1bcda1ac7c94e228a74ccb9c394513fde48c88e17b0e4bd2e193dd1f8eeJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3d7363c3-6a76-6999-3d92-7bc26b4e6875&u=a1aHR0cHM6Ly93d3cua2FpeGluYmFvLmNvbS8&ntb=1",
+          "linkNote": "官方链接"
+        },
+        {
+          "sn": 6,
           "name": "保險 - 维基百科，自由的百科全书",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
           "summary": "保險 - 维基百科，自由的百科全书",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=449e78a9a8110631d38c1e6a9268e1d20befcfc4c9343db67075b5342358a4adJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3961ae28-d060-6984-27ff-b629d1f26872&u=a1aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3dpa2kvJUU0JUJGJTlEJUU5JTlBJUFB&ntb=1",
-          "linkNote": "官方链接"
-        },
-        {
-          "sn": 6,
-          "name": "保险- 维基百科，自由的百科全书",
-          "issuer": "Bing搜索补充",
-          "date": "2026-07-31",
-          "summary": "保险- 维基百科，自由的百科全书",
-          "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=14e39e17a8afbcb589d739e9337c4d7670a7dee1dfa202edb6d903bfc56b6391JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3961ae28-d060-6984-27ff-b629d1f26872&u=a1aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3poLWhhbnMvJUU0JUJGJTlEJUU5JTlBJUFB&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=48e06edc12e809f5d3b0d1bae08df72ca151918f67a4b943671da013d8515efaJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3d7363c3-6a76-6999-3d92-7bc26b4e6875&u=a1aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3dpa2kvJUU0JUJGJTlEJUU5JTlBJUFB&ntb=1",
           "linkNote": "官方链接"
         },
         {
@@ -70,27 +85,27 @@
           "date": "2026-07-31",
           "summary": "中民——优选好保险",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=f99ee61df46f952fe165a05ccd688a96c494ee3ed14d7d95d110398a1ab1710cJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3961ae28-d060-6984-27ff-b629d1f26872&u=a1aHR0cHM6Ly93d3cuemhvbmdtaW4uY24v&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=90d1636e886c0e1fdb20fb9be249b027d6998ee42b3f227a64320c2447a74b91JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3d7363c3-6a76-6999-3d92-7bc26b4e6875&u=a1aHR0cHM6Ly93d3cuemhvbmdtaW4uY24v&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 8,
-          "name": "开心保保险网-好保险,聪明选.网上买保险推荐平台!",
-          "issuer": "Bing搜索补充",
-          "date": "2026-07-31",
-          "summary": "开心保保险网-好保险,聪明选.网上买保险推荐平台!",
-          "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=6b5d7642ade185754ccec21d1bb0d342b2efcdfa7e69216281aba6bcf83a4771JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3961ae28-d060-6984-27ff-b629d1f26872&u=a1aHR0cHM6Ly93d3cua2FpeGluYmFvLmNvbS8&ntb=1",
-          "linkNote": "官方链接"
-        },
-        {
-          "sn": 9,
           "name": "PICC - 中国人民保险集团股份有限公司",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
           "summary": "PICC - 中国人民保险集团股份有限公司",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=ffd48c13600082ea0be7fd420b36f3f69d6793d05398ace5a871b01c7ec5eacdJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3961ae28-d060-6984-27ff-b629d1f26872&u=a1aHR0cHM6Ly93d3cucGljYy5jb20uY24v&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=fb3edf7e1f25a55ff71efbb6551bd134a53a82e3a11c87d9bdd162ee3a89f1d7JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3d7363c3-6a76-6999-3d92-7bc26b4e6875&u=a1aHR0cHM6Ly93d3cucGljYy5jb20uY24v&ntb=1",
+          "linkNote": "官方链接"
+        },
+        {
+          "sn": 9,
+          "name": "保险的险种类型有哪些？全面解析：保险类型与配置指南 - 知乎",
+          "issuer": "Bing搜索补充",
+          "date": "2026-07-31",
+          "summary": "保险的险种类型有哪些？全面解析：保险类型与配置指南 - 知乎",
+          "level": "其他规范性文件",
+          "link": "https://www.bing.com/ck/a?!&&p=9e62c9a153c1c9550481f986b912dcde51ecff8dc81f92b26d00aca060250aa1JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3d7363c3-6a76-6999-3d92-7bc26b4e6875&u=a1aHR0cHM6Ly96aHVhbmxhbi56aGlodS5jb20vcC8yNzM2NDA3NTI4OA&ntb=1",
           "linkNote": "官方链接"
         },
         {
@@ -100,207 +115,187 @@
           "date": "2026-07-31",
           "summary": "首页-安联人寿保险直营商城 - allianz",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=3c7d520b97c0eddce11de1200e03c7743f4ee2a051816673918279d748cf2efbJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3961ae28-d060-6984-27ff-b629d1f26872&u=a1aHR0cHM6Ly9zYWxlcy5hbGxpYW56LmNvbS5jbi9lbXNob3AvbmV3Lw&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=48f3df34f1c0af80409014aa1697e4093fcfd1e2ae7bba7da7541a547bad5e54JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3d7363c3-6a76-6999-3d92-7bc26b4e6875&u=a1aHR0cHM6Ly9zYWxlcy5hbGxpYW56LmNvbS5jbi9lbXNob3AvbmV3Lw&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 11,
-          "name": "Microsoft- Official Home Page",
+          "name": "国务院组织机构_中国政府网",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
-          "summary": "Microsoft- Official Home Page",
+          "summary": "国务院组织机构_中国政府网",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=ceb304604898ab33b8482fa074849deae3ffcbcfd385bf1680e3c56a0a444a62JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3ac17881-6e62-69b3-1f6c-60806fe768e1&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS9lbi11cy8_bXNvY2tpZD0zYWMxNzg4MTZlNjI2OWIzMWY2YzYwODA2ZmU3NjhlMQ&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=ac24ac53045ad74f9cda02567416f93975251fd40d280b62ca9f15e5d9110114JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=2a660550-91f7-6299-1a3a-1d5190bb63c2&u=a1aHR0cHM6Ly93d3cuZ292LmNuL2d3eXp6amcv&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 12,
-          "name": "Microsoft– AI, Cloud, Productivity, Computing, Gaming & Apps",
+          "name": "中华人民共和国国务院- 维基百科，自由的百科全书",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
-          "summary": "Microsoft– AI, Cloud, Productivity, Computing, Gaming & Apps",
+          "summary": "中华人民共和国国务院- 维基百科，自由的百科全书",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=957aa565364569a4076f1d744690d02ca92a6ad2ca7b01705237d5534ad043b0JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3ac17881-6e62-69b3-1f6c-60806fe768e1&u=a1aHR0cHM6Ly93d3cubWljcm9zb2Z0LmNvbS8_bXNvY2tpZD0zYWMxNzg4MTZlNjI2OWIzMWY2YzYwODA2ZmU3NjhlMQ&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=1fcd851eec12daeee3e4746eb5a2cf7de992d752505d62942c8f6b72e19c8c4fJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=2a660550-91f7-6299-1a3a-1d5190bb63c2&u=a1aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3dpa2kvJUU0JUI4JUFEJUU1JThEJThFJUU0JUJBJUJBJUU2JUIwJTkxJUU1JTg1JUIxJUU1JTkyJThDJUU1JTlCJUJEJUU1JTlCJUJEJUU1JThBJUExJUU5JTk5JUEy&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 13,
-          "name": "Microsoftaccount | Sign In or Create Your Account Today –Microsoft",
+          "name": "中华人民共和国国务院_百度百科",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
-          "summary": "Microsoftaccount | Sign In or Create Your Account Today –Microsoft",
+          "summary": "中华人民共和国国务院_百度百科",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=4af1253963fd8fd5f6bf3c59bcf56057490544687576f16253b63d61a7a11e44JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3ac17881-6e62-69b3-1f6c-60806fe768e1&u=a1aHR0cHM6Ly9hY2NvdW50Lm1pY3Jvc29mdC5jb20vYWNjb3VudA&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=e8009042d9cad75ea7f0f8c7cff8a9a04e72d3c74dfeb29b6c585990d7dad446JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=2a660550-91f7-6299-1a3a-1d5190bb63c2&u=a1aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTQlQjglQUQlRTUlOEQlOEUlRTQlQkElQkElRTYlQjAlOTElRTUlODUlQjElRTUlOTIlOEMlRTUlOUIlQkQlRTUlOUIlQkQlRTUlOEElQTElRTklOTklQTIvMTE3NTUw&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 14,
-          "name": "Sign in to your account",
+          "name": "国务院部门网站 - 中国人大网",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
-          "summary": "Sign in to your account",
+          "summary": "国务院部门网站 - 中国人大网",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=0eb6f3cf43e84f94cc6d90f52c7cc8965a51794048c970c6be84c0122c8a6d71JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3ac17881-6e62-69b3-1f6c-60806fe768e1&u=a1aHR0cHM6Ly9teWFjY291bnQubWljcm9zb2Z0LmNvbS8&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=630d6d155799717ce2964db6e21fa268ecbdbeb502b38a18c69473f3a7069e77JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=2a660550-91f7-6299-1a3a-1d5190bb63c2&u=a1aHR0cDovL3d3dy5ucGMuZ292LmNuL2MxOTEvYzI2MDIvYzI1NTcv&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 15,
-          "name": "Sign in - account.microsoft.com",
+          "name": "中國政府網_中央人民政府門戶網站",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
-          "summary": "Sign in - account.microsoft.com",
+          "summary": "中國政府網_中央人民政府門戶網站",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=a680c85c149d8b8e224572b4eaea10885da786755448ede917526649f98cddd7JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3ac17881-6e62-69b3-1f6c-60806fe768e1&u=a1aHR0cHM6Ly9hY2NvdW50Lm1pY3Jvc29mdC5jb20vYWNjb3VudC1jaGVja3Vw&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=9012a24bf4e39004a1742699860080a95d6003b548d8286ad349a703f17fd156JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=2a660550-91f7-6299-1a3a-1d5190bb63c2&u=a1aHR0cDovL2JpZzUud3d3Lmdvdi5jbi9nYXRlL2JpZzUvd3d3Lmdvdi5jbi8&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 16,
-          "name": "Sign in to your account - myaccount.microsoft.com",
+          "name": "中华人民共和国国务院(第十四届全国人大期间) - 维基百科，自由的百 …",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
-          "summary": "Sign in to your account - myaccount.microsoft.com",
+          "summary": "中华人民共和国国务院(第十四届全国人大期间) - 维基百科，自由的百 …",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=73a9efa774c2641c1cd963dc6cbf87989b0b49407a2a754c8421fdac2a3a7b08JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3ac17881-6e62-69b3-1f6c-60806fe768e1&u=a1aHR0cHM6Ly9teWFjY291bnQubWljcm9zb2Z0LmNvbS9sb2dpbg&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=971faec9df639521a70f449ad35e0aafad770a3dea7b04c8156d2d9a30b649cbJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=2a660550-91f7-6299-1a3a-1d5190bb63c2&u=a1aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3dpa2kvJUU0JUI4JUFEJUU1JThEJThFJUU0JUJBJUJBJUU2JUIwJTkxJUU1JTg1JUIxJUU1JTkyJThDJUU1JTlCJUJEJUU1JTlCJUJEJUU1JThBJUExJUU5JTk5JUEyXyglRTclQUMlQUMlRTUlOEQlODElRTUlOUIlOUIlRTUlQjElOEElRTUlODUlQTglRTUlOUIlQkQlRTQlQkElQkElRTUlQTQlQTclRTYlOUMlOUYlRTklOTclQjQp&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 17,
-          "name": "Microsoft- Wikipedia",
+          "name": "国家政务服务平台国务院部门服务窗口",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
-          "summary": "Microsoft- Wikipedia",
+          "summary": "国家政务服务平台国务院部门服务窗口",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=2eb4832e49a59196bafdd19f27fc51993131053e5d3aa68b0af2969b4807118aJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3ac17881-6e62-69b3-1f6c-60806fe768e1&u=a1aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvTWljcm9zb2Z0&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=052875dd6045fb239b553bb63fa4097b43fabc34368e850d1f35a5bd07fba0a8JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=2a660550-91f7-6299-1a3a-1d5190bb63c2&u=a1aHR0cDovL2dqendmdy53d3cuZ292LmNuL2NvbC9jb2w0ODUvaW5kZXguaHRtbA&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 18,
-          "name": "Outlook",
+          "name": "国家政务服务平台",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
-          "summary": "Outlook",
+          "summary": "国家政务服务平台",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=3010fb6156e5c5c1284b4d56a84a5a9d8b17ff95b484d69687464a7c9bd113afJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3ac17881-6e62-69b3-1f6c-60806fe768e1&u=a1aHR0cHM6Ly9vdXRsb29rLm9mZmljZS5jb20vbWFpbC8&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=152f57f2e67ddebab03f9a14732fec74f5d235ddda7029c10ed3262f02963bb6JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=2a660550-91f7-6299-1a3a-1d5190bb63c2&u=a1aHR0cDovL2dqendmdy53d3cuZ292LmNuL2luZGV4Lmh0bWw&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 19,
-          "name": "Sign in toMicrosoft365",
+          "name": "中国政府网_中央人民政府门户网站",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
-          "summary": "Sign in toMicrosoft365",
+          "summary": "中国政府网_中央人民政府门户网站",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=57e136dc9debdad8033892c73714abffa8871f343f30b566495a61abd1b2becaJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3ac17881-6e62-69b3-1f6c-60806fe768e1&u=a1aHR0cHM6Ly9zdXBwb3J0Lm1pY3Jvc29mdC5jb20vZW4tdXMvYWNjb3VudHMtYmlsbGluZy9zdWJzY3JpcHRpb25zL3NpZ24taW4tdG8tbWljcm9zb2Z0LTM2NQ&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=4541ac3b7f12c868b8847fc6e2e178be0709b3ad8e8b6d627a54edaf3b013152JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=2a660550-91f7-6299-1a3a-1d5190bb63c2&u=a1aHR0cHM6Ly93d3cuZ292LmNuLz9ob21l&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 20,
-          "name": "MicrosoftStore - Download apps,games& more for your Windows PC",
+          "name": "国家金融监督管理总局- nfra.gov.cn",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
-          "summary": "MicrosoftStore - Download apps,games& more for your Windows PC",
+          "summary": "国家金融监督管理总局- nfra.gov.cn",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=482a70693b864c1e30edc00894cd0e91677f10409fc08765fa406246e572771dJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=3ac17881-6e62-69b3-1f6c-60806fe768e1&u=a1aHR0cHM6Ly9hcHBzLm1pY3Jvc29mdC5jb20vaG9tZQ&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=57601a73c31c33c7946ff3ae720cd449776d239fcfeefdbce254a77e4483a4a5JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=39356593-fd40-6810-38ba-7d92fcdf6975&u=a1aHR0cHM6Ly93d3cubmZyYS5nb3YuY24vY24vdmlldy9wYWdlcy9pbmRleC9pbmRleC5odG1s&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 21,
-          "name": "2026MLB Standingsand Records: Regular Season",
+          "name": "国家金融监督管理总局- nfra.gov.cn",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
-          "summary": "2026MLB Standingsand Records: Regular Season",
+          "summary": "国家金融监督管理总局- nfra.gov.cn",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=104868d135d5958e2b5188df35561f762950cb7055b8122995e56fa013b6f269JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=140d8372-3e13-6834-35b7-9b733fb169af&u=a1aHR0cHM6Ly93d3cubWxiLmNvbS9zdGFuZGluZ3M_bXNvY2tpZD0xNDBkODM3MjNlMTM2ODM0MzViNzliNzMzZmIxNjlhZg&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=90cf5404eba1d1a8c4dabd127ea6eed2ffa51262c7fb8ea88e1564982e85f68bJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=39356593-fd40-6810-38ba-7d92fcdf6975&u=a1aHR0cHM6Ly93d3cubmZyYS5nb3YuY24vY24vdmlldy9wYWdlcy9pbmRleC93YW5nemhhbmRpdHUuaHRtbA&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 22,
-          "name": "MLB Standings|MLB.com",
+          "name": "国家金融监督管理总局- 维基百科，自由的百科全书",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
-          "summary": "MLB Standings|MLB.com",
+          "summary": "国家金融监督管理总局- 维基百科，自由的百科全书",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=43cdfece2b1c52fe079fcec03f5297115901ff3fbaeb3bf5a0d39776a42a74fbJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=140d8372-3e13-6834-35b7-9b733fb169af&u=a1aHR0cHM6Ly93d3cubWxiLmNvbS9zdGFuZGluZ3MvMj9tc29ja2lkPTE0MGQ4MzcyM2UxMzY4MzQzNWI3OWI3MzNmYjE2OWFm&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=8679802e1c7841069f34a6e4c01e5747c57131b7cf991e80f4c2244444c477ddJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=39356593-fd40-6810-38ba-7d92fcdf6975&u=a1aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3dpa2kvJUU1JTlCJUJEJUU1JUFFJUI2JUU5JTg3JTkxJUU4JTlFJThEJUU3JTlCJTkxJUU3JTlEJUEzJUU3JUFFJUExJUU3JTkwJTg2JUU2JTgwJUJCJUU1JUIxJTgw&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 23,
-          "name": "MLB Standings- 2026 season - ESPN",
+          "name": "国家金融监督管理总局- 百度百科",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
-          "summary": "MLB Standings- 2026 season - ESPN",
+          "summary": "国家金融监督管理总局- 百度百科",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=a47e6a0f61a4adaa9deff317737d31071eddea368b70bf544d0746e149fabbf6JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=140d8372-3e13-6834-35b7-9b733fb169af&u=a1aHR0cHM6Ly93d3cuZXNwbi5jb20vbWxiL3N0YW5kaW5ncy9fL2xlYWd1ZQ&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=d13fb9bd1696d19bbb9b1b58cd8331f9f2058f8e77ffe8eafc3b04033ff22290JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=39356593-fd40-6810-38ba-7d92fcdf6975&u=a1aHR0cHM6Ly9iYWlrZS5iYWlkdS5jb20vaXRlbS8lRTUlOUIlQkQlRTUlQUUlQjYlRTklODclOTElRTglOUUlOEQlRTclOUIlOTElRTclOUQlQTMlRTclQUUlQTElRTclOTAlODYlRTYlODAlQkIlRTUlQjElODAvNjI3NDUxMTQ&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 24,
-          "name": "MLB Standings2026 – American & National League Tables",
+          "name": "国家政务服务平台 国家金融监督管理总局",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
-          "summary": "MLB Standings2026 – American & National League Tables",
+          "summary": "国家政务服务平台 国家金融监督管理总局",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=54309ae27f1d02ae4f4b145d4cdd2bd4dcb3708db3b4112f0d0e800b8987a95eJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=140d8372-3e13-6834-35b7-9b733fb169af&u=a1aHR0cHM6Ly93b3JsZGJhc2ViYWxsbmV3cy5vcmcvbGVhZ3Vlcy9tYWpvci1sZWFndWUtYmFzZWJhbGwvc3RhbmRpbmdzLw&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=b351087646c3c509788a85c8713a76479517028bb54b2e8527b21bdefaff1785JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=39356593-fd40-6810-38ba-7d92fcdf6975&u=a1aHR0cHM6Ly9nanp3Zncud3d3Lmdvdi5jbi9jb2wvY29sNTE4L2luZGV4Lmh0bWw&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 25,
-          "name": "MLB Standings- 2026 Regular Season DivisionStandings- ESPN",
+          "name": "國家金融監督管理總局 - big5.nfra.gov.cn",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
-          "summary": "MLB Standings- 2026 Regular Season DivisionStandings- ESPN",
+          "summary": "國家金融監督管理總局 - big5.nfra.gov.cn",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=93eda9e57882fd6c030f06afc576cef917cae4e8472e7713fa9c4103a87bd89cJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=140d8372-3e13-6834-35b7-9b733fb169af&u=a1aHR0cHM6Ly93d3cuZXNwbi5jb20vbWxiL3N0YW5kaW5ncy9fL3NlYXNvbnR5cGUvMg&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=9c160859ddfa5df830605a4d0328394d76fecf527e0d741f3b1785416ddda620JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=39356593-fd40-6810-38ba-7d92fcdf6975&u=a1aHR0cHM6Ly9iaWc1Lm5mcmEuZ292LmNuL2NuL3ZpZXcvcGFnZXMvaW5kZXgvaW5kZXguaHRtbA&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 26,
-          "name": "MLBplayoff schedule 2026: Full bracket, scores, times, TV channels to ...",
+          "name": "国家金融监督管理总局- 维基百科，自由的百科全书",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
-          "summary": "MLBplayoff schedule 2026: Full bracket, scores, times, TV channels to ...",
+          "summary": "国家金融监督管理总局- 维基百科，自由的百科全书",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=4f86cbf04269b9582043245a5a174cc6490575ab5d26e4199f5361968d2efbb2JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=140d8372-3e13-6834-35b7-9b733fb169af&u=a1aHR0cHM6Ly93d3cuc3BvcnRpbmduZXdzLmNvbS91cy9tbGIvbmV3cy9tbGItcGxheW9mZi1zY2hlZHVsZS0yMDI2LWJyYWNrZXQtc2NvcmVzLXRpbWVzLXR2LWNoYW5uZWxzLXdhdGNoL2Q4ZTAzYmNhNDM0MzRhNDRhMGQ2NjEzOQ&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=0ec79fdba3c0642715becfbfb90c0fd04b4a478222c8785f5294039dcfcd4fb7JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=39356593-fd40-6810-38ba-7d92fcdf6975&u=a1aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3poLWNuLyVFNSU5QiVCRCVFNSVBRSVCNiVFOSU4NyU5MSVFOCU5RSU4RCVFNyU5QiU5MSVFNyU5RCVBMyVFNyVBRSVBMSVFNyU5MCU4NiVFNiU4MCVCQiVFNSVCMSU4MA&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 27,
-          "name": "MLB",
+          "name": "金融监管总局中国人民银行 中国证监会 财政部关于健全金融机构治理 …",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
-          "summary": "MLB",
+          "summary": "金融监管总局中国人民银行 中国证监会 财政部关于健全金融机构治理 …",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=6bf818cedbf90ec3a4f7b8b5beca25623984426781940207de8c8495ba60a50aJmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=140d8372-3e13-6834-35b7-9b733fb169af&u=a1aHR0cDovL21sYi5tbGIuY29tL21sYi9zdGFuZGluZ3MvaW5kZXguanNw&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=374e297f136cdc9d4dbf5072c31955d369a739afee9f09838b7fd863d8ff6148JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=39356593-fd40-6810-38ba-7d92fcdf6975&u=a1aHR0cHM6Ly93d3cuY3NyYy5nb3YuY24vY3NyYy9jMTAwMDI4L2M3NjQ5MDc2L2NvbnRlbnQuc2h0bWw&ntb=1",
           "linkNote": "官方链接"
         },
         {
           "sn": 28,
-          "name": "MLBNews,Scores, Stats, Standings and Rumors - Major League Baseball...",
+          "name": "zwfw.nfra.gov.cn",
           "issuer": "Bing搜索补充",
           "date": "2026-07-31",
-          "summary": "MLBNews,Scores, Stats, Standings and Rumors - Major League Baseball...",
+          "summary": "zwfw.nfra.gov.cn",
           "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=74071019eafb0bfa6f8888e470ef6712f871d9e4d2211e3dc5cb6746ff9635e9JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=140d8372-3e13-6834-35b7-9b733fb169af&u=a1aHR0cHM6Ly93d3cuY2Jzc3BvcnRzLmNvbS9tbGIv&ntb=1",
-          "linkNote": "官方链接"
-        },
-        {
-          "sn": 29,
-          "name": "2026MLBPlayoff Picture & Wild CardStandings(Updated Daily)",
-          "issuer": "Bing搜索补充",
-          "date": "2026-07-31",
-          "summary": "2026MLBPlayoff Picture & Wild CardStandings(Updated Daily)",
-          "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=cf395cbeb8439fa88111a4725e59dd3f4ba90cd6ee27b4b5057d05a75a16d935JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=140d8372-3e13-6834-35b7-9b733fb169af&u=a1aHR0cHM6Ly9zcG9ydHNicmFja2V0cy5uZXQvMjAyNi8wNS8yMy8yMDI2LW1sYi1zdGFuZGluZ3Mv&ntb=1",
-          "linkNote": "官方链接"
-        },
-        {
-          "sn": 30,
-          "name": "2026MLBplayoff picture: Finalstandings, complete bracket as regular ...",
-          "issuer": "Bing搜索补充",
-          "date": "2026-07-31",
-          "summary": "2026MLBplayoff picture: Finalstandings, complete bracket as regular ...",
-          "level": "其他规范性文件",
-          "link": "https://www.bing.com/ck/a?!&&p=3fe707731095959be8a8f3e5162d89c8b607707f63bd575a14be784ffe669175JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=140d8372-3e13-6834-35b7-9b733fb169af&u=a1aHR0cHM6Ly93d3cuY2Jzc3BvcnRzLmNvbS9tbGIvbmV3cy8yMDI2LW1sYi1wbGF5b2ZmLXBpY3R1cmUtc3RhbmRpbmdzLWJyYWNrZXQv&ntb=1",
+          "link": "https://www.bing.com/ck/a?!&&p=10e7e1a3e21735822c66b7b4d4fa8b223737aab86a947b4ba714b23cf49a83c4JmltdHM9MTc5MzIzMjAwMA&ptn=3&ver=2&hsh=4&fclid=39356593-fd40-6810-38ba-7d92fcdf6975&u=a1aHR0cHM6Ly96d2Z3Lm5mcmEuZ292LmNuLw&ntb=1",
           "linkNote": "官方链接"
         }
       ]
